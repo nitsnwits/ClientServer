@@ -1,6 +1,6 @@
 /*##########################################################################################
 #  Description: Client Server for OS CMPE 180-94 Project
-#  Author: A-Team (Neeraj Sharma, Vineet Bhatkoti, Manish Sharma, Annie Zhang)
+#  Author: Neeraj Sharma
 #  Email: neerajsharma20@gmail.com
 #  Version: 1.4
 #  Date: 11/11/2013
