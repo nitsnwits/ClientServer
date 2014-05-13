@@ -1,0 +1,1973 @@
+======================================================================================================
+File processing: /media/sf_programs/project/b.txt Thread ID: 3054500672
+
+Total no. of lines: 30244
+Total no. of words: 60487
+Total no. of characters: 342754
+=============Words Repetition==============
+Word Count: ABCD => 10082
+Word Count: EFGH => 10081
+Word Count: HELLO => 10081
+Word Count: NEERAJ => 10081
+Word Count: SHARMA => 1
+Word Count: SHARMAABCD => 10080
+Word Count: WORLD => 10081
+
+===========Character Repetition============
+Char Count: A => 50405
+Char Count: B => 20162
+Char Count: C => 20162
+Char Count: D => 30243
+Char Count: E => 40324
+Char Count: F => 10081
+Char Count: G => 10081
+Char Count: H => 30243
+Char Count: J => 10081
+Char Count: L => 30243
+Char Count: M => 10081
+Char Count: N => 10081
+Char Count: O => 20162
+Char Count: R => 30243
+Char Count: S => 10081
+Char Count: W => 10081
+
+======================================================================================================
+File processing: /media/sf_programs/project/b.txt Thread ID: 3029322560
+
+Total no. of lines: 30244
+Total no. of words: 60487
+Total no. of characters: 342754
+=============Words Repetition==============
+Word Count: ABCD => 10082
+Word Count: EFGH => 10081
+Word Count: HELLO => 10081
+Word Count: NEERAJ => 10081
+Word Count: SHARMA => 1
+Word Count: SHARMAABCD => 10080
+Word Count: WORLD => 10081
+
+===========Character Repetition============
+Char Count: A => 50405
+Char Count: B => 20162
+Char Count: C => 20162
+Char Count: D => 30243
+Char Count: E => 40324
+Char Count: F => 10081
+Char Count: G => 10081
+Char Count: H => 30243
+Char Count: J => 10081
+Char Count: L => 30243
+Char Count: M => 10081
+Char Count: N => 10081
+Char Count: O => 20162
+Char Count: R => 30243
+Char Count: S => 10081
+Char Count: W => 10081
+
+======================================================================================================
+File processing: /media/sf_programs/project/b.txt Thread ID: 3004144448
+
+Total no. of lines: 30244
+Total no. of words: 60487
+Total no. of characters: 342754
+=============Words Repetition==============
+Word Count: ABCD => 10082
+Word Count: EFGH => 10081
+Word Count: HELLO => 10081
+Word Count: NEERAJ => 10081
+Word Count: SHARMA => 1
+Word Count: SHARMAABCD => 10080
+Word Count: WORLD => 10081
+
+===========Character Repetition============
+Char Count: A => 50405
+Char Count: B => 20162
+Char Count: C => 20162
+Char Count: D => 30243
+Char Count: E => 40324
+Char Count: F => 10081
+Char Count: G => 10081
+Char Count: H => 30243
+Char Count: J => 10081
+Char Count: L => 30243
+Char Count: M => 10081
+Char Count: N => 10081
+Char Count: O => 20162
+Char Count: R => 30243
+Char Count: S => 10081
+Char Count: W => 10081
+
+======================================================================================================
+File processing: /media/sf_programs/project/b.txt Thread ID: 2974808896
+
+Total no. of lines: 30244
+Total no. of words: 60487
+Total no. of characters: 342754
+=============Words Repetition==============
+======================================================================================================
+File processing: /media/sf_programs/project/b.txt Thread ID: 2945448768
+
+Total no. of lines: 30244
+Total no. of words: 60487
+Total no. of characters: 342754
+=============Words Repetition==============
+Word Count: ABCD => 10082
+Word Count: EFGH => 10081
+Word Count: HELLO => 10081
+Word Count: NEERAJ => 10081
+Word Count: SHARMA => 1
+Word Count: SHARMAABCD => 10080
+Word Count: WORLD => 10081
+
+===========Character Repetition============
+Char Count: A => 50405
+Char Count: B => 20162
+Char Count: C => 20162
+Char Count: D => 30243
+Char Count: E => 40324
+Char Count: F => 10081
+Char Count: G => 10081
+Char Count: H => 30243
+Char Count: J => 10081
+Char Count: L => 30243
+Char Count: M => 10081
+Char Count: N => 10081
+Char Count: O => 20162
+Char Count: R => 30243
+Char Count: S => 10081
+Char Count: W => 10081
+
+======================================================================================================
+File processing: /media/sf_programs/project/b.txt Thread ID: 2926574400
+
+Total no. of lines: 30244
+Total no. of words: 60487
+Total no. of characters: 342754
+=============Words Repetition==============
+Word Count: ABCD => 10082
+Word Count: EFGH => 10081
+Word Count: HELLO => 10081
+Word Count: NEERAJ => 10081
+Word Count: SHARMA => 1
+Word Count: SHARMAABCD => 10080
+Word Count: WORLD => 10081
+
+===========Character Repetition============
+======================================================================================================
+File processing: /media/sf_programs/project/b.txt Thread ID: 2916088640
+
+Total no. of lines: 30244
+Total no. of words: 60487
+Total no. of characters: 342754
+=============Words Repetition==============
+Word Count: ABCD => 10082
+Word Count: EFGH => 10081
+======================================================================================================
+File processing: /media/sf_programs/project/b.txt Thread ID: 2907695936
+
+Total no. of lines: 30244
+=============Words Repetition==============
+Word Count: ABCD => 10082
+Word Count: EFGH => 10081
+Word Count: HELLO => 10081
+Word Count: NEERAJ => 10081
+Word Count: SHARMA => 1
+Word Count: SHARMAABCD => 10080
+Word Count: WORLD => 10081
+
+===========Character Repetition============
+Char Count: A => 50405
+Char Count: B => 20162
+Char Count: C => 20162
+Char Count: D => 30243
+Char Count: E => 40324
+Char Count: F => 10081
+Char Count: G => 10081
+Char Count: H => 30243
+Char Count: J => 10081
+Char Count: L => 30243
+Char Count: M => 10081
+Char Count: N => 10081
+Char Count: O => 20162
+Char Count: R => 30243
+Char Count: S => 10081
+Char Count: W => 10081
+
+======================================================================================================
+======================================================================================================
+======================================================================================================
+File processing: /media/sf_programs/project/b.txt Thread ID: 3046107968
+
+Total no. of lines: 30244
+Total no. of words: 60487
+Total no. of characters: 342754
+=============Words Repetition==============
+Word Count: ABCD => 10082
+Word Count: EFGH => 10081
+Word Count: HELLO => 10081
+Word Count: NEERAJ => 10081
+Word Count: SHARMA => 1
+Word Count: SHARMAABCD => 10080
+Word Count: WORLD => 10081
+
+===========Character Repetition============
+Char Count: A => 50405
+Char Count: B => 20162
+Char Count: C => 20162
+Char Count: D => 30243
+Char Count: E => 40324
+Char Count: F => 10081
+Char Count: G => 10081
+Char Count: H => 30243
+Char Count: J => 10081
+Char Count: L => 30243
+Char Count: M => 10081
+Char Count: N => 10081
+Char Count: O => 20162
+Char Count: R => 30243
+Char Count: S => 10081
+Char Count: W => 10081
+
+======================================================================================================
+File processing: /media/sf_programs/project/b.txt Thread ID: 3020929856
+
+Total no. of lines: 30244
+Total no. of words: 60487
+Total no. of characters: 342754
+=============Words Repetition==============
+Word Count: ABCD => 10082
+Word Count: EFGH => 10081
+Word Count: HELLO => 10081
+Word Count: NEERAJ => 10081
+Word Count: SHARMA => 1
+Word Count: SHARMAABCD => 10080
+Word Count: WORLD => 10081
+
+===========Character Repetition============
+Char Count: A => 50405
+Char Count: B => 20162
+Char Count: C => 20162
+Char Count: D => 30243
+Char Count: E => 40324
+Char Count: F => 10081
+Char Count: G => 10081
+Char Count: H => 30243
+Char Count: J => 10081
+Char Count: L => 30243
+Char Count: M => 10081
+Char Count: N => 10081
+Char Count: O => 20162
+Char Count: R => 30243
+Char Count: S => 10081
+Char Count: W => 10081
+
+======================================================================================================
+File processing: /media/sf_programs/project/b.txt Thread ID: 3037715264
+
+Total no. of lines: 30244
+Total no. of words: 60487
+Total no. of characters: 342754
+=============Words Repetition==============
+Word Count: ABCD => 10082
+Word Count: EFGH => 10081
+Word Count: HELLO => 10081
+Word Count: NEERAJ => 10081
+Word Count: SHARMA => 1
+Word Count: SHARMAABCD => 10080
+Word Count: WORLD => 10081
+
+===========Character Repetition============
+Char Count: A => 50405
+Char Count: B => 20162
+Char Count: C => 20162
+Char Count: D => 30243
+Char Count: E => 40324
+Char Count: F => 10081
+Char Count: G => 10081
+Char Count: H => 30243
+Char Count: J => 10081
+Char Count: L => 30243
+Char Count: M => 10081
+Char Count: N => 10081
+Char Count: O => 20162
+Char Count: R => 30243
+Char Count: S => 10081
+Char Count: W => 10081
+
+======================================================================================================
+File processing: /media/sf_programs/project/b.txt Thread ID: 2995751744
+
+Total no. of lines: 30244
+Total no. of words: 60487
+Total no. of characters: 342754
+=============Words Repetition==============
+Word Count: ABCD => 10082
+Word Count: EFGH => 10081
+Word Count: HELLO => 10081
+Word Count: NEERAJ => 10081
+Word Count: SHARMA => 1
+Word Count: SHARMAABCD => 10080
+Word Count: WORLD => 10081
+
+===========Character Repetition============
+Char Count: A => 50405
+Char Count: B => 20162
+Char Count: C => 20162
+Char Count: D => 30243
+Char Count: E => 40324
+Char Count: F => 10081
+Char Count: G => 10081
+Char Count: H => 30243
+Char Count: J => 10081
+Char Count: L => 30243
+Char Count: M => 10081
+Char Count: N => 10081
+Char Count: O => 20162
+Char Count: R => 30243
+Char Count: S => 10081
+Char Count: W => 10081
+
+======================================================================================================
+======================================================================================================
+File processing: /media/sf_programs/project/b.txt Thread ID: 2985294656
+
+Total no. of lines: 30244
+Total no. of words: 60487
+Total no. of characters: 342754
+=============Words Repetition==============
+Word Count: ABCD => 10082
+Word Count: EFGH => 10081
+Word Count: HELLO => 10081
+Word Count: NEERAJ => 10081
+Word Count: SHARMA => 1
+Word Count: SHARMAABCD => 10080
+Word Count: WORLD => 10081
+
+===========Character Repetition============
+Char Count: A => 50405
+Char Count: B => 20162
+Char Count: C => 20162
+Char Count: D => 30243
+Char Count: E => 40324
+Char Count: F => 10081
+Char Count: G => 10081
+Char Count: H => 30243
+Char Count: J => 10081
+Char Count: L => 30243
+Char Count: M => 10081
+Char Count: N => 10081
+Char Count: O => 20162
+Char Count: R => 30243
+Char Count: S => 10081
+Char Count: W => 10081
+
+======================================================================================================
+======================================================================================================
+File processing: /media/sf_programs/project/b.txt Thread ID: 3012537152
+
+Total no. of lines: 30244
+Total no. of words: 60487
+Total no. of characters: 342754
+=============Words Repetition==============
+Word Count: ABCD => 10082
+Word Count: EFGH => 10081
+Word Count: HELLO => 10081
+Word Count: NEERAJ => 10081
+Word Count: SHARMA => 1
+Word Count: SHARMAABCD => 10080
+Word Count: WORLD => 10081
+
+===========Character Repetition============
+Char Count: A => 50405
+Char Count: B => 20162
+Char Count: C => 20162
+Char Count: D => 30243
+Char Count: E => 40324
+Char Count: F => 10081
+Char Count: G => 10081
+Char Count: H => 30243
+Char Count: J => 10081
+Char Count: L => 30243
+Char Count: M => 10081
+Char Count: N => 10081
+Char Count: O => 20162
+Char Count: R => 30243
+Char Count: S => 10081
+Char Count: W => 10081
+
+======================================================================================================
+File processing: /media/sf_programs/project/b.txt Thread ID: 2937056064
+
+Total no. of lines: 30244
+Total no. of words: 60487
+Total no. of characters: 342754
+=============Words Repetition==============
+Word Count: ABCD => 10082
+Word Count: EFGH => 10081
+Word Count: HELLO => 10081
+Word Count: NEERAJ => 10081
+Word Count: SHARMA => 1
+Word Count: SHARMAABCD => 10080
+Word Count: WORLD => 10081
+
+===========Character Repetition============
+Char Count: A => 50405
+Char Count: B => 20162
+Char Count: C => 20162
+Char Count: D => 30243
+Char Count: E => 40324
+Char Count: F => 10081
+Char Count: G => 10081
+Char Count: H => 30243
+Char Count: J => 10081
+Char Count: L => 30243
+Char Count: M => 10081
+Char Count: N => 10081
+Char Count: O => 20162
+Char Count: R => 30243
+Char Count: S => 10081
+Char Count: W => 10081
+
+======================================================================================================
+File processing: /media/sf_programs/project/b.txt Thread ID: 2899303232
+
+Total no. of lines: 30244
+Total no. of words: 60487
+Total no. of characters: 342754
+=============Words Repetition==============
+Word Count: ABCD => 10082
+Word Count: EFGH => 10081
+Word Count: HELLO => 10081
+Word Count: NEERAJ => 10081
+Word Count: SHARMA => 1
+Word Count: SHARMAABCD => 10080
+Word Count: WORLD => 10081
+
+===========Character Repetition============
+Char Count: A => 50405
+Char Count: B => 20162
+Char Count: C => 20162
+Char Count: D => 30243
+Char Count: E => 40324
+Char Count: F => 10081
+Char Count: G => 10081
+Char Count: H => 30243
+Char Count: J => 10081
+Char Count: L => 30243
+Char Count: M => 10081
+Char Count: N => 10081
+Char Count: O => 20162
+Char Count: R => 30243
+Char Count: S => 10081
+Char Count: W => 10081
+
+======================================================================================================
+File processing: /media/sf_programs/project/b.txt Thread ID: 2869951296
+
+Total no. of lines: 30244
+Total no. of words: 60487
+Total no. of characters: 342754
+=============Words Repetition==============
+Word Count: ABCD => 10082
+Word Count: EFGH => 10081
+Word Count: HELLO => 10081
+Word Count: NEERAJ => 10081
+Word Count: SHARMA => 1
+Word Count: SHARMAABCD => 10080
+Word Count: WORLD => 10081
+
+===========Character Repetition============
+Char Count: A => 50405
+Char Count: B => 20162
+Char Count: C => 20162
+Char Count: D => 30243
+Char Count: E => 40324
+Char Count: F => 10081
+Char Count: G => 10081
+Char Count: H => 30243
+Char Count: J => 10081
+Char Count: L => 30243
+Char Count: M => 10081
+Char Count: N => 10081
+Char Count: O => 20162
+Char Count: R => 30243
+Char Count: S => 10081
+Char Count: W => 10081
+
+======================================================================================================
+File processing: /media/sf_programs/project/b.txt Thread ID: 2854222656
+
+Total no. of lines: 30244
+Total no. of words: 60487
+Total no. of characters: 342754
+=============Words Repetition==============
+Word Count: ABCD => 10082
+Word Count: EFGH => 10081
+Word Count: HELLO => 10081
+Word Count: NEERAJ => 10081
+Word Count: SHARMA => 1
+Word Count: SHARMAABCD => 10080
+Word Count: WORLD => 10081
+
+===========Character Repetition============
+Char Count: A => 50405
+Char Count: B => 20162
+Char Count: C => 20162
+Char Count: D => 30243
+Char Count: E => 40324
+Char Count: F => 10081
+Char Count: G => 10081
+Char Count: H => 30243
+Char Count: J => 10081
+Char Count: L => 30243
+Char Count: M => 10081
+Char Count: N => 10081
+Char Count: O => 20162
+Char Count: R => 30243
+Char Count: S => 10081
+Char Count: W => 10081
+
+======================================================================================================
+File processing: /media/sf_programs/project/b.txt Thread ID: 2845829952
+
+Total no. of lines: 30244
+Total no. of words: 60487
+Total no. of characters: 342754
+=============Words Repetition==============
+Word Count: ABCD => 10082
+Word Count: EFGH => 10081
+Word Count: HELLO => 10081
+Word Count: NEERAJ => 10081
+Word Count: SHARMA => 1
+Word Count: SHARMAABCD => 10080
+Word Count: WORLD => 10081
+
+===========Character Repetition============
+Char Count: A => 50405
+Char Count: B => 20162
+Char Count: C => 20162
+Char Count: D => 30243
+Char Count: E => 40324
+Char Count: F => 10081
+Char Count: G => 10081
+Char Count: H => 30243
+Char Count: J => 10081
+Char Count: L => 30243
+Char Count: M => 10081
+Char Count: N => 10081
+Char Count: O => 20162
+Char Count: R => 30243
+Char Count: S => 10081
+Char Count: W => 10081
+
+======================================================================================================
+File processing: /media/sf_programs/project/b.txt Thread ID: 2820651840
+
+Total no. of lines: 30244
+Total no. of words: 60487
+Total no. of characters: 342754
+=============Words Repetition==============
+Word Count: ABCD => 10082
+Word Count: EFGH => 10081
+Word Count: HELLO => 10081
+Word Count: NEERAJ => 10081
+Word Count: SHARMA => 1
+Word Count: SHARMAABCD => 10080
+Word Count: WORLD => 10081
+
+===========Character Repetition============
+Char Count: A => 50405
+Char Count: B => 20162
+Char Count: C => 20162
+Char Count: D => 30243
+Char Count: E => 40324
+Char Count: F => 10081
+Char Count: G => 10081
+Char Count: H => 30243
+Char Count: J => 10081
+Char Count: L => 30243
+Char Count: M => 10081
+Char Count: N => 10081
+Char Count: O => 20162
+Char Count: R => 30243
+Char Count: S => 10081
+Char Count: W => 10081
+
+======================================================================================================
+File processing: /media/sf_programs/project/b.txt Thread ID: 2803866432
+
+Total no. of lines: 30244
+Total no. of words: 60487
+Total no. of characters: 342754
+=============Words Repetition==============
+Word Count: ABCD => 10082
+Word Count: EFGH => 10081
+Word Count: HELLO => 10081
+Word Count: NEERAJ => 10081
+Word Count: SHARMA => 1
+Word Count: SHARMAABCD => 10080
+Word Count: WORLD => 10081
+
+===========Character Repetition============
+Char Count: A => 50405
+Char Count: B => 20162
+Char Count: C => 20162
+Char Count: D => 30243
+Char Count: E => 40324
+Char Count: F => 10081
+Char Count: G => 10081
+Char Count: H => 30243
+Char Count: J => 10081
+Char Count: L => 30243
+Char Count: M => 10081
+Char Count: N => 10081
+Char Count: O => 20162
+Char Count: R => 30243
+Char Count: S => 10081
+Char Count: W => 10081
+
+======================================================================================================
+File processing: /media/sf_programs/project/b.txt Thread ID: 2829044544
+
+Total no. of lines: 30244
+Total no. of words: 60487
+Total no. of characters: 342754
+=============Words Repetition==============
+Word Count: ABCD => 10082
+Word Count: EFGH => 10081
+Word Count: HELLO => 10081
+Word Count: NEERAJ => 10081
+Word Count: SHARMA => 1
+Word Count: SHARMAABCD => 10080
+Word Count: WORLD => 10081
+
+===========Character Repetition============
+Char Count: A => 50405
+Char Count: B => 20162
+Char Count: C => 20162
+Char Count: D => 30243
+Char Count: E => 40324
+Char Count: F => 10081
+Char Count: G => 10081
+Char Count: H => 30243
+Char Count: J => 10081
+Char Count: L => 30243
+Char Count: M => 10081
+Char Count: N => 10081
+Char Count: O => 20162
+Char Count: R => 30243
+Char Count: S => 10081
+Char Count: W => 10081
+
+======================================================================================================
+File processing: /media/sf_programs/project/b.txt Thread ID: 2795473728
+
+Total no. of lines: 30244
+Total no. of words: 60487
+Total no. of characters: 342754
+=============Words Repetition==============
+Word Count: ABCD => 10082
+Word Count: EFGH => 10081
+======================================================================================================
+File processing: /media/sf_programs/project/b.txt Thread ID: 2837437248
+
+Total no. of lines: 30244
+Total no. of words: 60487
+Total no. of characters: 342754
+=============Words Repetition==============
+Word Count: ABCD => 10082
+Word Count: EFGH => 10081
+Word Count: HELLO => 10081
+Word Count: NEERAJ => 10081
+Word Count: SHARMA => 1
+Word Count: SHARMAABCD => 10080
+Word Count: WORLD => 10081
+
+===========Character Repetition============
+Char Count: A => 50405
+Char Count: B => 20162
+Char Count: C => 20162
+Char Count: D => 30243
+Char Count: E => 40324
+Char Count: F => 10081
+Char Count: G => 10081
+Char Count: H => 30243
+Char Count: J => 10081
+Char Count: L => 30243
+Char Count: M => 10081
+Char Count: N => 10081
+Char Count: O => 20162
+Char Count: R => 30243
+Char Count: S => 10081
+Char Count: W => 10081
+
+======================================================================================================
+File processing: /media/sf_programs/project/b.txt Thread ID: 2778688320
+Connection created successfully.
+Total no. of words: 60487
+Total no. of characters: 342754
+=============Words Repetition==============
+Word Count: HELLO => 10081
+Word Count: NEERAJ => 10081
+Word Count: SHARMA => 1
+Word Count: SHARMAABCD => 10080
+Word Count: WORLD => 10081
+
+===========Character Repetition============
+Char Count: A => 50405
+Char Count: B => 20162
+Char Count: C => 20162
+Char Count: D => 30243
+Char Count: E => 40324
+Char Count: F => 10081
+Char Count: G => 10081
+Char Count: H => 30243
+Char Count: J => 10081
+Char Count: L => 30243
+Char Count: M => 10081
+Char Count: N => 10081
+Char Count: O => 20162
+Char Count: R => 30243
+Char Count: S => 10081
+Char Count: W => 10081
+
+======================================================================================================
+File processing: /media/sf_programs/project/b.txt Thread ID: 2787081024
+
+Total no. of lines: 30244
+Total no. of words: 60487
+Total no. of characters: 342754
+=============Words Repetition==============
+Word Count: ABCD => 10082
+Word Count: EFGH => 10081
+Word Count: HELLO => 10081
+Word Count: NEERAJ => 10081
+Word Count: SHARMA => 1
+Word Count: SHARMAABCD => 10080
+Word Count: WORLD => 10081
+
+===========Character Repetition============
+Char Count: A => 50405
+Char Count: B => 20162
+Char Count: C => 20162
+Char Count: D => 30243
+Char Count: E => 40324
+Char Count: F => 10081
+Char Count: G => 10081
+Char Count: H => 30243
+Char Count: J => 10081
+Char Count: L => 30243
+Char Count: M => 10081
+Char Count: N => 10081
+Char Count: O => 20162
+Char Count: R => 30243
+Char Count: S => 10081
+Char Count: W => 10081
+
+======================================================================================================
+File processing: /media/sf_programs/project/b.txt Thread ID: 2812259136
+
+Total no. of lines: 30244
+Total no. of words: 60487
+Total no. of characters: 342754
+=============Words Repetition==============
+Word Count: ABCD => 10082
+Word Count: EFGH => 10081
+Word Count: HELLO => 10081
+Word Count: NEERAJ => 10081
+Word Count: SHARMA => 1
+Word Count: SHARMAABCD => 10080
+Word Count: WORLD => 10081
+
+===========Character Repetition============
+Char Count: A => 50405
+Char Count: B => 20162
+Char Count: C => 20162
+Char Count: D => 30243
+Char Count: E => 40324
+Char Count: F => 10081
+Char Count: G => 10081
+Char Count: H => 30243
+Char Count: J => 10081
+Char Count: L => 30243
+Char Count: M => 10081
+Char Count: N => 10081
+Char Count: O => 20162
+Char Count: R => 30243
+Char Count: S => 10081
+Char Count: W => 10081
+
+======================================================================================================
+File processing: /media/sf_programs/project/b.txt Thread ID: 2770295616
+
+Total no. of lines: 30244
+Total no. of words: 60487
+Total no. of characters: 342754
+=============Words Repetition==============
+Word Count: ABCD => 10082
+Word Count: EFGH => 10081
+Word Count: HELLO => 10081
+Word Count: NEERAJ => 10081
+Word Count: SHARMA => 1
+Word Count: SHARMAABCD => 10080
+Word Count: WORLD => 10081
+
+===========Character Repetition============
+Char Count: A => 50405
+Char Count: B => 20162
+Char Count: C => 20162
+Char Count: D => 30243
+Char Count: E => 40324
+Char Count: F => 10081
+Char Count: G => 10081
+Char Count: H => 30243
+Char Count: J => 10081
+Char Count: L => 30243
+Char Count: M => 10081
+Char Count: N => 10081
+Char Count: O => 20162
+Char Count: R => 30243
+Char Count: S => 10081
+Char Count: W => 10081
+
+======================================================================================================
+File processing: /media/sf_programs/project/b.txt Thread ID: 2709502784
+
+Total no. of lines: 30244
+Total no. of words: 60487
+Total no. of characters: 342754
+=============Words Repetition==============
+Word Count: ABCD => 10082
+Word Count: EFGH => 10081
+Word Count: HELLO => 10081
+Word Count: NEERAJ => 10081
+Word Count: SHARMA => 1
+Word Count: SHARMAABCD => 10080
+Word Count: WORLD => 10081
+
+===========Character Repetition============
+Char Count: A => 50405
+Char Count: B => 20162
+Char Count: C => 20162
+Char Count: D => 30243
+Char Count: E => 40324
+Char Count: F => 10081
+Char Count: G => 10081
+Char Count: H => 30243
+Char Count: J => 10081
+Char Count: L => 30243
+Char Count: M => 10081
+Char Count: N => 10081
+Char Count: O => 20162
+Char Count: R => 30243
+Char Count: S => 10081
+Char Count: W => 10081
+
+======================================================================================================
+File processing: /media/sf_programs/project/b.txt Thread ID: 2734680896
+
+Total no. of lines: 30244
+Total no. of words: 60487
+Total no. of characters: 342754
+=============Words Repetition==============
+Word Count: ABCD => 10082
+Word Count: EFGH => 10081
+Word Count: HELLO => 10081
+Word Count: NEERAJ => 10081
+Word Count: SHARMA => 1
+Word Count: SHARMAABCD => 10080
+Word Count: WORLD => 10081
+
+===========Character Repetition============
+Char Count: A => 50405
+Char Count: B => 20162
+Char Count: C => 20162
+Char Count: D => 30243
+Char Count: E => 40324
+Char Count: F => 10081
+Char Count: G => 10081
+Char Count: H => 30243
+Char Count: J => 10081
+Char Count: L => 30243
+Char Count: M => 10081
+Char Count: N => 10081
+Char Count: O => 20162
+Char Count: R => 30243
+Char Count: S => 10081
+Char Count: W => 10081
+
+======================================================================================================
+File processing: /media/sf_programs/project/b.txt Thread ID: 2726288192
+
+Total no. of lines: 30244
+Total no. of words: 60487
+Total no. of characters: 342754
+=============Words Repetition==============
+Word Count: ABCD => 10082
+Word Count: EFGH => 10081
+Word Count: HELLO => 10081
+Word Count: NEERAJ => 10081
+Word Count: SHARMA => 1
+Word Count: SHARMAABCD => 10080
+Word Count: WORLD => 10081
+
+===========Character Repetition============
+Char Count: A => 50405
+Char Count: B => 20162
+Char Count: C => 20162
+Char Count: D => 30243
+Char Count: E => 40324
+Char Count: F => 10081
+Char Count: G => 10081
+Char Count: H => 30243
+Char Count: J => 10081
+Char Count: L => 30243
+Char Count: M => 10081
+Char Count: N => 10081
+Char Count: O => 20162
+Char Count: R => 30243
+Char Count: S => 10081
+Char Count: W => 10081
+
+======================================================================================================
+File processing: /media/sf_programs/project/b.txt Thread ID: 2761902912
+
+Total no. of lines: 30244
+Total no. of words: 60487
+Total no. of characters: 342754
+=============Words Repetition==============
+Word Count: ABCD => 10082
+Word Count: EFGH => 10081
+Word Count: HELLO => 10081
+Word Count: NEERAJ => 10081
+Word Count: SHARMA => 1
+Word Count: SHARMAABCD => 10080
+Word Count: WORLD => 10081
+
+===========Character Repetition============
+Char Count: A => 50405
+Char Count: B => 20162
+Char Count: C => 20162
+Char Count: D => 30243
+Char Count: E => 40324
+Char Count: F => 10081
+Char Count: G => 10081
+Char Count: H => 30243
+Char Count: J => 10081
+Char Count: L => 30243
+Char Count: M => 10081
+Char Count: N => 10081
+Char Count: O => 20162
+Char Count: R => 30243
+Char Count: S => 10081
+Char Count: W => 10081
+
+======================================================================================================
+File processing: /media/sf_programs/project/b.txt Thread ID: 2743073600
+======================================================================================================
+File processing: /media/sf_programs/project/b.txt Thread ID: 2717895488
+
+Total no. of lines: 30244
+Total no. of words: 60487
+Total no. of characters: 342754
+=============Words Repetition==============
+Word Count: ABCD => 10082
+Word Count: EFGH => 10081
+Word Count: HELLO => 10081
+Word Count: NEERAJ => 10081
+Word Count: SHARMA => 1
+Word Count: SHARMAABCD => 10080
+Word Count: WORLD => 10081
+
+===========Character Repetition============
+Char Count: A => 50405
+Char Count: B => 20162
+Char Count: C => 20162
+Char Count: D => 30243
+Char Count: E => 40324
+Char Count: F => 10081
+Char Count: G => 10081
+Char Count: H => 30243
+Char Count: J => 10081
+Char Count: L => 30243
+Char Count: M => 10081
+Char Count: N => 10081
+Char Count: O => 20162
+Char Count: R => 30243
+Char Count: S => 10081
+Char Count: W => 10081
+
+======================================================================================================
+File processing: /media/sf_programs/project/b.txt Thread ID: 2688547648
+
+Total no. of lines: 30244
+Total no. of words: 60487
+Total no. of characters: 342754
+=============Words Repetition==============
+Word Count: ABCD => 10082
+Word Count: EFGH => 10081
+Word Count: HELLO => 10081
+Word Count: NEERAJ => 10081
+Word Count: SHARMA => 1
+Word Count: SHARMAABCD => 10080
+Word Count: WORLD => 10081
+
+===========Character Repetition============
+Char Count: A => 50405
+Char Count: B => 20162
+Char Count: C => 20162
+Char Count: D => 30243
+Char Count: E => 40324
+Char Count: F => 10081
+Char Count: G => 10081
+Char Count: H => 30243
+Char Count: J => 10081
+Char Count: L => 30243
+Char Count: M => 10081
+Char Count: N => 10081
+Char Count: O => 20162
+Char Count: R => 30243
+Char Count: S => 10081
+Char Count: W => 10081
+
+======================================================================================================
+File processing: /media/sf_programs/project/b.txt Thread ID: 2678061888
+
+Total no. of lines: 30244
+Total no. of words: 60487
+Total no. of characters: 342754
+=============Words Repetition==============
+Word Count: ABCD => 10082
+Word Count: EFGH => 10081
+Word Count: HELLO => 10081
+Word Count: NEERAJ => 10081
+Word Count: SHARMA => 1
+Word Count: SHARMAABCD => 10080
+Word Count: WORLD => 10081
+
+===========Character Repetition============
+Char Count: A => 50405
+Char Count: B => 20162
+Char Count: C => 20162
+Char Count: D => 30243
+Char Count: E => 40324
+Char Count: F => 10081
+Char Count: G => 10081
+Char Count: H => 30243
+Char Count: J => 10081
+Char Count: L => 30243
+Char Count: M => 10081
+Char Count: N => 10081
+Char Count: O => 20162
+Char Count: R => 30243
+Char Count: S => 10081
+Char Count: W => 10081
+
+======================================================================================================
+File processing: /media/sf_programs/project/b.txt Thread ID: 2657090368
+
+Total no. of lines: 30244
+Total no. of words: 60487
+Total no. of characters: 342754
+=============Words Repetition==============
+Word Count: ABCD => 10082
+Word Count: EFGH => 10081
+Word Count: HELLO => 10081
+Word Count: NEERAJ => 10081
+Word Count: SHARMA => 1
+Word Count: SHARMAABCD => 10080
+Word Count: WORLD => 10081
+
+===========Character Repetition============
+Char Count: A => 50405
+Char Count: B => 20162
+Char Count: C => 20162
+Char Count: D => 30243
+Char Count: E => 40324
+Char Count: F => 10081
+Char Count: G => 10081
+Char Count: H => 30243
+Char Count: J => 10081
+Char Count: L => 30243
+Char Count: M => 10081
+Char Count: N => 10081
+Char Count: O => 20162
+Char Count: R => 30243
+Char Count: S => 10081
+Char Count: W => 10081
+
+======================================================================================================
+File processing: /media/sf_programs/project/b.txt Thread ID: 2667576128
+
+======================================================================================================
+File processing: /media/sf_programs/project/b.txt Thread ID: 2646604608
+
+Total no. of lines: 30244
+Total no. of words: 60487
+Total no. of characters: 342754
+=============Words Repetition==============
+Word Count: ABCD => 10082
+Word Count: EFGH => 10081
+Word Count: HELLO => 10081
+Word Count: NEERAJ => 10081
+Word Count: SHARMA => 1
+Word Count: SHARMAABCD => 10080
+Word Count: WORLD => 10081
+
+===========Character Repetition============
+Char Count: A => 50405
+Char Count: B => 20162
+Char Count: C => 20162
+Char Count: D => 30243
+Char Count: E => 40324
+Char Count: F => 10081
+Char Count: G => 10081
+Char Count: H => 30243
+Char Count: J => 10081
+Char Count: L => 30243
+Char Count: M => 10081
+Char Count: N => 10081
+Char Count: O => 20162
+Char Count: R => 30243
+Char Count: S => 10081
+Char Count: W => 10081
+
+======================================================================================================
+File processing: /media/sf_programs/project/b.txt Thread ID: 2625633088
+
+Total no. of lines: 30244
+Total no. of words: 60487
+Total no. of characters: 342754
+=============Words Repetition==============
+Word Count: ABCD => 10082
+Word Count: EFGH => 10081
+Word Count: HELLO => 10081
+Word Count: NEERAJ => 10081
+Word Count: SHARMA => 1
+Word Count: SHARMAABCD => 10080
+Word Count: WORLD => 10081
+
+===========Character Repetition============
+Char Count: A => 50405
+Char Count: B => 20162
+Char Count: C => 20162
+Char Count: D => 30243
+Char Count: E => 40324
+Char Count: F => 10081
+Char Count: G => 10081
+Char Count: H => 30243
+Char Count: J => 10081
+Char Count: L => 30243
+Char Count: M => 10081
+Char Count: N => 10081
+Char Count: O => 20162
+Char Count: R => 30243
+Char Count: S => 10081
+Char Count: W => 10081
+
+======================================================================================================
+File processing: /media/sf_programs/project/b.txt Thread ID: 2636118848
+
+Total no. of lines: 30244
+Total no. of words: 60487
+Total no. of characters: 342754
+=============Words Repetition==============
+Word Count: ABCD => 10082
+Word Count: EFGH => 10081
+Word Count: HELLO => 10081
+Word Count: NEERAJ => 10081
+Word Count: SHARMA => 1
+Word Count: SHARMAABCD => 10080
+Word Count: WORLD => 10081
+
+===========Character Repetition============
+Char Count: A => 50405
+======================================================================================================
+File processing: /media/sf_programs/project/b.txt Thread ID: 2699033408
+
+Total no. of lines: 30244
+Total no. of words: 60487
+Total no. of characters: 342754
+=============Words Repetition==============
+Word Count: ABCD => 10082
+Word Count: EFGH => 10081
+Word Count: HELLO => 10081
+Word Count: NEERAJ => 10081
+Word Count: SHARMA => 1
+Word Count: SHARMAABCD => 10080
+Word Count: WORLD => 10081
+
+===========Character Repetition============
+Char Count: A => 50405
+Char Count: B => 20162
+Char Count: C => 20162
+Char Count: D => 30243
+Char Count: E => 40324
+Char Count: F => 10081
+Char Count: G => 10081
+Char Count: H => 30243
+Char Count: J => 10081
+Char Count: L => 30243
+Char Count: M => 10081
+Char Count: N => 10081
+Char Count: O => 20162
+Char Count: R => 30243
+Char Count: S => 10081
+Char Count: W => 10081
+
+======================================================================================================
+File processing: /media/sf_programs/project/b.txt Thread ID: 2615147328
+
+Total no. of lines: 30244
+Total no. of words: 60487
+Total no. of characters: 342754
+=============Words Repetition==============
+Word Count: ABCD => 10082
+Word Count: EFGH => 10081
+Word Count: HELLO => 10081
+Word Count: NEERAJ => 10081
+Word Count: SHARMA => 1
+Word Count: SHARMAABCD => 10080
+Word Count: WORLD => 10081
+Word Count: WORLD => 10081
+11/27/2013-08:47:24 INFO: Request Number: 40 completed successfully in 17188.3 ms.
+======================================================================================================
+File processing: /media/sf_programs/project/b.txt Thread ID: 2592078656
+
+Total no. of lines: 30244
+Total no. of words: 60487
+Total no. of characters: 342754
+=============Words Repetition==============
+Word Count: ABCD => 10082
+Word Count: EFGH => 10081
+Word Count: HELLO => 10081
+Word Count: NEERAJ => 10081
+Word Count: SHARMA => 1
+Word Count: SHARMAABCD => 10080
+Word Count: WORLD => 10081
+
+===========Character Repetition============
+Char Count: A => 50405
+Char Count: B => 20162
+Char Count: C => 20162
+Char Count: D => 30243
+Char Count: E => 40324
+Char Count: F => 10081
+Char Count: G => 10081
+Char Count: H => 30243
+Char Count: J => 10081
+Char Count: L => 30243
+Char Count: M => 10081
+Char Count: N => 10081
+Char Count: O => 20162
+Char Count: R => 30243
+Char Count: S => 10081
+Char Count: W => 10081
+
+======================================================================================================
+File processing: /media/sf_programs/project/b.txt Thread ID: 2602564416
+
+Total no. of lines: 30244
+Total no. of words: 60487
+Total no. of characters: 342754
+======================================================================================================
+File processing: /media/sf_programs/project/b.txt Thread ID: 2512386880
+
+Total no. of lines: 30244
+Total no. of words: 60487
+Total no. of characters: 342754
+=============Words Repetition==============
+Word Count: ABCD => 10082
+Word Count: EFGH => 10081
+Word Count: HELLO => 10081
+Word Count: NEERAJ => 10081
+Word Count: SHARMA => 1
+Word Count: SHARMAABCD => 10080
+Word Count: WORLD => 10081
+
+===========Character Repetition============
+Char Count: A => 50405
+Char Count: B => 20162
+Char Count: C => 20162
+Char Count: D => 30243
+Char Count: E => 40324
+Char Count: F => 10081
+Char Count: G => 10081
+Char Count: H => 30243
+Char Count: J => 10081
+Char Count: L => 30243
+Char Count: M => 10081
+Char Count: N => 10081
+Char Count: O => 20162
+Char Count: R => 30243
+Char Count: S => 10081
+Char Count: W => 10081
+
+======================================================================================================
+File processing: /media/sf_programs/project/b.txt Thread ID: 2458893120
+
+Total no. of lines: 30244
+Total no. of words: 60487
+Total no. of characters: 342754
+=============Words Repetition==============
+Word Count: ABCD => 10082
+Word Count: EFGH => 10081
+Word Count: HELLO => 10081
+Word Count: NEERAJ => 10081
+Word Count: SHARMA => 1
+Word Count: SHARMAABCD => 10080
+Word Count: WORLD => 10081
+
+===========Character Repetition============
+Char Count: A => 50405
+Char Count: B => 20162
+Char Count: C => 20162
+Char Count: D => 30243
+Char Count: E => 40324
+Char Count: F => 10081
+Char Count: G => 10081
+Char Count: H => 30243
+Char Count: J => 10081
+Char Count: L => 30243
+Char Count: M => 10081
+Char Count: N => 10081
+Char Count: O => 20162
+Char Count: R => 30243
+Char Count: S => 10081
+Char Count: W => 10081
+
+======================================================================================================
+File processing: /media/sf_programs/project/b.txt Thread ID: 2382363456
+======================================================================================================
+File processing: /media/sf_programs/project/b.txt Thread ID: 2430593856
+
+Total no. of lines: 30244
+Total no. of words: 60487
+Total no. of characters: 342754
+=============Words Repetition==============
+Word Count: ABCD => 10082
+Word Count: EFGH => 10081
+Word Count: HELLO => 10081
+Word Count: NEERAJ => 10081
+Word Count: SHARMA => 1
+Word Count: SHARMAABCD => 10080
+Word Count: WORLD => 10081
+
+===========Character Repetition============
+Char Count: A => 50405
+Char Count: B => 20162
+Char Count: C => 20162
+Char Count: D => 30243
+Char Count: E => 40324
+Char Count: F => 10081
+Char Count: G => 10081
+Char Count: H => 30243
+Char Count: J => 10081
+Char Count: L => 30243
+Char Count: M => 10081
+Char Count: N => 10081
+Char Count: O => 20162
+Char Count: R => 30243
+Char Count: S => 10081
+Char Count: W => 10081
+
+======================================================================================================
+File processing: /media/sf_programs/project/b.txt Thread ID: 2392832832
+
+Total no. of lines: 30244
+Total no. of words: 60487
+Total no. of characters: 342754
+=============Words Repetition==============
+Word Count: ABCD => 10082
+Word Count: EFGH => 10081
+Word Count: HELLO => 10081
+Word Count: NEERAJ => 10081
+Word Count: SHARMA => 1
+Word Count: SHARMAABCD => 10080
+Word Count: WORLD => 10081
+
+===========Character Repetition============
+Char Count: A => 50405
+Char Count: B => 20162
+Char Count: C => 20162
+Char Count: D => 30243
+Char Count: E => 40324
+Char Count: F => 10081
+Char Count: G => 10081
+Char Count: H => 30243
+Char Count: J => 10081
+Char Count: L => 30243
+Char Count: M => 10081
+Char Count: N => 10081
+Char Count: O => 20162
+Char Count: R => 30243
+Char Count: S => 10081
+Char Count: W => 10081
+
+======================================================================================================
+======================================================================================================
+File processing: /media/sf_programs/project/b.txt Thread ID: 2401225536
+
+Total no. of lines: 30244
+Total no. of words: 60487
+Total no. of characters: 342754
+=============Words Repetition==============
+Word Count: ABCD => 10082
+Word Count: EFGH => 10081
+Word Count: HELLO => 10081
+Word Count: NEERAJ => 10081
+Word Count: SHARMA => 1
+Word Count: SHARMAABCD => 10080
+Word Count: WORLD => 10081
+
+===========Character Repetition============
+Char Count: A => 50405
+Char Count: B => 20162
+Char Count: C => 20162
+Char Count: D => 30243
+Char Count: E => 40324
+Char Count: F => 10081
+Char Count: G => 10081
+Char Count: H => 30243
+Char Count: J => 10081
+Char Count: L => 30243
+Char Count: M => 10081
+Char Count: N => 10081
+Char Count: O => 20162
+Char Count: R => 30243
+Char Count: S => 10081
+Char Count: W => 10081
+
+======================================================================================================
+File processing: /media/sf_programs/project/b.txt Thread ID: 2503994176
+
+Total no. of lines: 30244
+Total no. of words: 60487
+Total no. of characters: 342754
+=============Words Repetition==============
+Word Count: ABCD => 10082
+Word Count: EFGH => 10081
+Word Count: HELLO => 10081
+Word Count: NEERAJ => 10081
+Word Count: SHARMA => 1
+Word Count: SHARMAABCD => 10080
+Word Count: WORLD => 10081
+
+===========Character Repetition============
+Char Count: A => 50405
+Char Count: B => 20162
+Char Count: C => 20162
+Char Count: D => 30243
+Char Count: E => 40324
+Char Count: F => 10081
+Char Count: G => 10081
+Char Count: H => 30243
+Char Count: J => 10081
+Char Count: L => 30243
+Char Count: M => 10081
+Char Count: N => 10081
+Char Count: O => 20162
+Char Count: R => 30243
+Char Count: S => 10081
+Char Count: W => 10081
+
+======================================================================================================
+File processing: /media/sf_programs/project/b.txt Thread ID: 2442107712
+
+Total no. of lines: 30244
+Total no. of words: 60487
+Total no. of characters: 342754
+=============Words Repetition==============
+Word Count: ABCD => 10082
+Word Count: EFGH => 10081
+Word Count: HELLO => 10081
+Word Count: NEERAJ => 10081
+Word Count: SHARMA => 1
+Word Count: SHARMAABCD => 10080
+Word Count: WORLD => 10081
+
+===========Character Repetition============
+Char Count: A => 50405
+Char Count: B => 20162
+Char Count: C => 20162
+Char Count: D => 30243
+Char Count: E => 40324
+Char Count: F => 10081
+Char Count: G => 10081
+Char Count: H => 30243
+Char Count: J => 10081
+Char Count: L => 30243
+Char Count: M => 10081
+Char Count: N => 10081
+Char Count: O => 20162
+Char Count: R => 30243
+Char Count: S => 10081
+Char Count: W => 10081
+
+======================================================================================================
+File processing: /media/sf_programs/project/b.txt Thread ID: 2409618240
+
+Total no. of lines: 30244
+Total no. of words: 60487
+Total no. of characters: 342754
+=============Words Repetition==============
+Word Count: ABCD => 10082
+Word Count: EFGH => 10081
+Word Count: HELLO => 10081
+Word Count: NEERAJ => 10081
+Word Count: SHARMA => 1
+Word Count: SHARMAABCD => 10080
+Word Count: WORLD => 10081
+
+===========Character Repetition============
+Char Count: A => 50405
+Char Count: B => 20162
+Char Count: C => 20162
+Char Count: D => 30243
+Char Count: E => 40324
+Char Count: F => 10081
+Char Count: G => 10081
+Char Count: H => 30243
+Char Count: J => 10081
+Char Count: L => 30243
+Char Count: M => 10081
+Char Count: N => 10081
+Char Count: O => 20162
+Char Count: R => 30243
+Char Count: S => 10081
+Char Count: W => 10081
+
+======================================================================================================
+File processing: /media/sf_programs/project/b.txt Thread ID: 2485123904
+
+======================================================================================================
+File processing: /media/sf_programs/project/b.txt Thread ID: 2340408128
+
+Total no. of lines: 30244
+Total no. of words: 60487
+Total no. of characters: 342754
+=============Words Repetition==============
+Word Count: ABCD => 10082
+Word Count: EFGH => 10081
+Word Count: HELLO => 10081
+Word Count: NEERAJ => 10081
+Word Count: SHARMA => 1
+Word Count: SHARMAABCD => 10080
+Word Count: WORLD => 10081
+
+===========Character Repetition============
+Char Count: A => 50405
+Char Count: B => 20162
+Char Count: C => 20162
+Char Count: D => 30243
+Char Count: E => 40324
+Char Count: F => 10081
+Char Count: G => 10081
+Char Count: H => 30243
+Char Count: J => 10081
+Char Count: L => 30243
+Char Count: M => 10081
+Char Count: N => 10081
+Char Count: O => 20162
+Char Count: R => 30243
+Char Count: S => 10081
+Char Count: W => 10081
+
+======================================================================================================
+File processing: /media/sf_programs/project/b.txt Thread ID: 2475678528
+======================================================================================================
+======================================================================================================
+======================================================================================================
+File processing: /media/sf_programs/project/b.txt Thread ID: 2467285824
+
+======================================================================================================
+File processing: /media/sf_programs/project/b.txt Thread ID: 2323622720
+
+Total no. of lines: 30244
+Total no. of words: 60487
+Total no. of characters: 342754
+=============Words Repetition==============
+Word Count: ABCD => 10082
+Word Count: EFGH => 10081
+Word Count: HELLO => 10081
+Word Count: NEERAJ => 10081
+Word Count: SHARMA => 1
+Word Count: SHARMAABCD => 10080
+Word Count: WORLD => 10081
+
+===========Character Repetition============
+Char Count: A => 50405
+Char Count: B => 20162
+Char Count: C => 20162
+Char Count: D => 30243
+Char Count: E => 40324
+Char Count: F => 10081
+Char Count: G => 10081
+Char Count: H => 30243
+Char Count: J => 10081
+Char Count: L => 30243
+Char Count: M => 10081
+Char Count: N => 10081
+Char Count: O => 20162
+Char Count: R => 30243
+Char Count: S => 10081
+Char Count: W => 10081
+
+======================================================================================================
+File processing: /media/sf_programs/project/b.txt Thread ID: 2348800832
+
+Total no. of lines: 30244
+Total no. of words: 60487
+Total no. of characters: 342754
+=============Words Repetition==============
+Word Count: ABCD => 10082
+Word Count: EFGH => 10081
+Word Count: HELLO => 10081
+Word Count: NEERAJ => 10081
+Word Count: SHARMA => 1
+Word Count: SHARMAABCD => 10080
+Word Count: WORLD => 10081
+
+===========Character Repetition============
+Char Count: A => 50405
+Char Count: B => 20162
+Char Count: C => 20162
+Char Count: D => 30243
+Char Count: E => 40324
+Char Count: F => 10081
+Char Count: G => 10081
+Char Count: H => 30243
+Char Count: J => 10081
+Char Count: L => 30243
+Char Count: M => 10081
+Char Count: N => 10081
+Char Count: O => 20162
+Char Count: R => 30243
+Char Count: S => 10081
+Char Count: W => 10081
+
+======================================================================================================
+File processing: /media/sf_programs/project/b.txt Thread ID: 2541747008
+
+Total no. of lines: 30244
+Total no. of words: 60487
+Total no. of characters: 342754
+=============Words Repetition==============
+Word Count: ABCD => 10082
+Word Count: EFGH => 10081
+Word Count: HELLO => 10081
+Word Count: NEERAJ => 10081
+Word Count: SHARMA => 1
+Word Count: SHARMAABCD => 10080
+Word Count: WORLD => 10081
+
+===========Character Repetition============
+Char Count: A => 50405
+Char Count: B => 20162
+Char Count: C => 20162
+Char Count: D => 30243
+Char Count: E => 40324
+Char Count: F => 10081
+Char Count: G => 10081
+Char Count: H => 30243
+Char Count: J => 10081
+Char Count: L => 30243
+Char Count: M => 10081
+Char Count: N => 10081
+Char Count: O => 20162
+Char Count: R => 30243
+Char Count: S => 10081
+Char Count: W => 10081
+
+======================================================================================================
+File processing: /media/sf_programs/project/b.txt Thread ID: 2495601472
+
+Total no. of lines: 30244
+Total no. of words: 60487
+Total no. of characters: 342754
+=============Words Repetition==============
+Word Count: ABCD => 10082
+Word Count: EFGH => 10081
+Word Count: HELLO => 10081
+Word Count: NEERAJ => 10081
+Word Count: SHARMA => 1
+Word Count: SHARMAABCD => 10080
+Word Count: WORLD => 10081
+
+===========Character Repetition============
+Char Count: A => 50405
+Char Count: B => 20162
+Char Count: C => 20162
+Char Count: D => 30243
+Char Count: E => 40324
+Char Count: F => 10081
+Char Count: G => 10081
+Char Count: H => 30243
+Char Count: J => 10081
+Char Count: L => 30243
+Char Count: M => 10081
+Char Count: N => 10081
+Char Count: O => 20162
+Char Count: R => 30243
+Char Count: S => 10081
+Char Count: W => 10081
+
+======================================================================================================
+File processing: /media/sf_programs/project/b.txt Thread ID: 2290051904
+
+Total no. of lines: 30244
+Total no. of words: 60487
+Total no. of characters: 342754
+=============Words Repetition==============
+Word Count: ABCD => 10082
+Word Count: EFGH => 10081
+Word Count: HELLO => 10081
+Word Count: NEERAJ => 10081
+Word Count: SHARMA => 1
+Word Count: SHARMAABCD => 10080
+Word Count: WORLD => 10081
+
+===========Character Repetition============
+Char Count: A => 50405
+Char Count: B => 20162
+Char Count: C => 20162
+Char Count: D => 30243
+Char Count: E => 40324
+Char Count: F => 10081
+Char Count: G => 10081
+Char Count: H => 30243
+Char Count: J => 10081
+Char Count: L => 30243
+Char Count: M => 10081
+Char Count: N => 10081
+Char Count: O => 20162
+Char Count: R => 30243
+Char Count: S => 10081
+Char Count: W => 10081
+
+======================================================================================================
+File processing: /media/sf_programs/project/b.txt Thread ID: 2365578048
+======================================================================================================
+File processing: /media/sf_programs/project/b.txt Thread ID: 2524961600
+
+Total no. of lines: 30244
+Total no. of words: 60487
+Total no. of characters: 342754
+=============Words Repetition==============
+Word Count: ABCD => 10082
+Word Count: EFGH => 10081
+Word Count: HELLO => 10081
+Word Count: NEERAJ => 10081
+Word Count: SHARMA => 1
+Word Count: SHARMAABCD => 10080
+Word Count: WORLD => 10081
+
+===========Character Repetition============
+Char Count: A => 50405
+Char Count: B => 20162
+Char Count: C => 20162
+Char Count: D => 30243
+Char Count: E => 40324
+Char Count: F => 10081
+Char Count: G => 10081
+Char Count: H => 30243
+Char Count: J => 10081
+Char Count: L => 30243
+Char Count: M => 10081
+Char Count: N => 10081
+Char Count: O => 20162
+Char Count: R => 30243
+Char Count: S => 10081
+Char Count: W => 10081
+
+======================================================================================================
+File processing: /media/sf_programs/project/b.txt Thread ID: 2533354304
+
+Total no. of lines: 30244
+Total no. of words: 60487
+Total no. of characters: 342754
+=============Words Repetition==============
+Word Count: ABCD => 10082
+Word Count: EFGH => 10081
+Word Count: HELLO => 10081
+Word Count: NEERAJ => 10081
+Word Count: SHARMA => 1
+Word Count: SHARMAABCD => 10080
+Word Count: WORLD => 10081
+
+===========Character Repetition============
+Char Count: A => 50405
+Char Count: B => 20162
+Char Count: C => 20162
+Char Count: D => 30243
+Char Count: E => 40324
+Char Count: F => 10081
+Char Count: G => 10081
+Char Count: H => 30243
+Char Count: J => 10081
+Char Count: L => 30243
+Char Count: M => 10081
+Char Count: N => 10081
+Char Count: O => 20162
+Char Count: R => 30243
+Char Count: S => 10081
+Char Count: W => 10081
+
+======================================================================================================
+File processing: /media/sf_programs/project/b.txt Thread ID: 2315230016
+
+Total no. of lines: 30244
+Total no. of words: 60487
+Total no. of characters: 342754
+=============Words Repetition==============
+Word Count: ABCD => 10082
+Word Count: EFGH => 10081
+Word Count: HELLO => 10081
+Word Count: NEERAJ => 10081
+Word Count: SHARMA => 1
+Word Count: SHARMAABCD => 10080
+Word Count: WORLD => 10081
+
+Char Count: A => 50405
+Char Count: B => 20162
+Char Count: C => 20162
+Char Count: D => 30243
+Char Count: F => 10081
+Char Count: G => 10081
+Char Count: H => 30243
+Char Count: J => 10081
+Char Count: L => 30243
+Char Count: M => 10081
+Char Count: N => 10081
+Char Count: O => 20162
+Char Count: R => 30243
+Char Count: S => 10081
+Char Count: W => 10081
+
+======================================================================================================
+File processing: /media/sf_programs/project/b.txt Thread ID: 2298444608
+
+Total no. of lines: 30244
+Total no. of words: 60487
+Total no. of characters: 342754
+=============Words Repetition==============
+Word Count: ABCD => 10082
+Word Count: EFGH => 10081
+Word Count: HELLO => 10081
+Word Count: NEERAJ => 10081
+Word Count: SHARMA => 1
+Word Count: SHARMAABCD => 10080
+Word Count: WORLD => 10081
+
+===========Character Repetition============
+Char Count: A => 50405
+Char Count: B => 20162
+Char Count: C => 20162
+Char Count: D => 30243
+Char Count: E => 40324
+Char Count: F => 10081
+Char Count: G => 10081
+Char Count: H => 30243
+Char Count: J => 10081
+Char Count: L => 30243
+Char Count: M => 10081
+Char Count: N => 10081
+Char Count: O => 20162
+Char Count: R => 30243
+Char Count: S => 10081
+Char Count: W => 10081
+
+======================================================================================================
+File processing: /media/sf_programs/project/b.txt Thread ID: 2306837312
+
+Total no. of lines: 30244
+Total no. of words: 60487
+Total no. of characters: 342754
+=============Words Repetition==============
+Word Count: WORLD => 10081
+
+===========Character Repetition============
+Char Count: A => 50405
+Char Count: B => 20162
+Char Count: C => 20162
+Char Count: D => 30243
+Char Count: E => 40324
+Char Count: F => 10081
+Char Count: G => 10081
+Char Count: H => 30243
+Char Count: J => 10081
+Char Count: L => 30243
+Char Count: M => 10081
+Char Count: N => 10081
+Char Count: O => 20162
+Char Count: R => 30243
+Char Count: S => 10081
+Char Count: W => 10081
+
+======================================================================================================
+File processing: /media/sf_programs/project/b.txt Thread ID: 2373970752
+
+Total no. of lines: 30244
+Total no. of words: 60487
+Total no. of characters: 342754
+=============Words Repetition==============
+Word Count: ABCD => 10082
+Word Count: EFGH => 10081
+Word Count: HELLO => 10081
+Word Count: NEERAJ => 10081
+Word Count: SHARMA => 1
+Word Count: SHARMAABCD => 10080
+Word Count: WORLD => 10081
+
+===========Character Repetition============
+Char Count: A => 50405
+Char Count: B => 20162
+Char Count: C => 20162
+Char Count: D => 30243
+Char Count: E => 40324
+Char Count: F => 10081
+Char Count: G => 10081
+Char Count: H => 30243
+Char Count: J => 10081
+Char Count: L => 30243
+Char Count: M => 10081
+Char Count: N => 10081
+Char Count: O => 20162
+Char Count: R => 30243
+Char Count: S => 10081
+Char Count: W => 10081
+
+======================================================================================================
+======================================================================================================
+File processing: /media/sf_programs/project/b.txt Thread ID: 2281659200
+
+Total no. of lines: 30244
+Total no. of words: 60487
+Total no. of characters: 342754
+=============Words Repetition==============
+Word Count: ABCD => 10082
+Word Count: EFGH => 10081
+Word Count: HELLO => 10081
+Word Count: NEERAJ => 10081
+Word Count: SHARMA => 1
+Word Count: SHARMAABCD => 10080
+Word Count: WORLD => 10081
+
+===========Character Repetition============
+Char Count: A => 50405
+Char Count: B => 20162
+Char Count: C => 20162
+Char Count: D => 30243
+Char Count: E => 40324
+Char Count: F => 10081
+Char Count: G => 10081
+Char Count: H => 30243
+Char Count: J => 10081
+Char Count: L => 30243
+Char Count: M => 10081
+Char Count: N => 10081
+Char Count: O => 20162
+Char Count: R => 30243
+Char Count: S => 10081
+Char Count: W => 10081
+

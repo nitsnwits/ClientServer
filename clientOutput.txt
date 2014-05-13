@@ -1,0 +1,231 @@
+======================================================================================================
+Stats Collection of server program with PID: 3880
+
+Program file name of server running: server.out
+State of server process: R (running)
+Virtual Memory Used by server:   689752 kB
+Resident Memory Used by server:   150780 kB
+Number of threads running by server: 43
+Number of CPU's used by server: 1
+Voluntary Context switches by server: 1297
+Non-voluntary Context switches by server: 344
+Number of read system calls by server: 2601
+Number of write system calls by server: 1210
+Number of bytes read from disk: 0
+Amount of time server is scheduled in User Mode: 1807
+Amount of time server is scheduled in Kernel Mode: 165
+Priority of server process is: 20
+Nice value of server process is: 0
+Number of pages swapped: 134512640
+CPU Scheduling policy used for process: 0
+
+======================================================================================================
+Stats Collection of server program with PID: 3880
+
+Program file name of server running: server.out
+State of server process: S (sleeping)
+Virtual Memory Used by server:   739888 kB
+Resident Memory Used by server:   166564 kB
+Number of threads running by server: 20
+Number of CPU's used by server: 1
+Voluntary Context switches by server: 1407
+Non-voluntary Context switches by server: 366
+Number of read system calls by server: 3438
+Number of write system calls by server: 2216
+Number of bytes read from disk: 0
+Amount of time server is scheduled in User Mode: 2727
+Amount of time server is scheduled in Kernel Mode: 200
+Priority of server process is: 20
+Nice value of server process is: 0
+Number of pages swapped: 134512640
+CPU Scheduling policy used for process: 0
+
+======================================================================================================
+Stats Collection of server program with PID: 3880
+
+Program file name of server running: server.out
+State of server process: S (sleeping)
+Virtual Memory Used by server:   713724 kB
+Resident Memory Used by server:   143024 kB
+Number of threads running by server: 3
+Number of CPU's used by server: 1
+Voluntary Context switches by server: 1407
+Non-voluntary Context switches by server: 366
+Number of read system calls by server: 3439
+Number of write system calls by server: 2756
+Number of bytes read from disk: 0
+Amount of time server is scheduled in User Mode: 3002
+Amount of time server is scheduled in Kernel Mode: 210
+Priority of server process is: 20
+Nice value of server process is: 0
+Number of pages swapped: 134512640
+CPU Scheduling policy used for process: 0
+
+======================================================================================================
+Stats Collection of server program with PID: 3880
+
+Program file name of server running: server.out
+State of server process: S (sleeping)
+Virtual Memory Used by server:   677884 kB
+Resident Memory Used by server:   107432 kB
+Number of threads running by server: 3
+Number of CPU's used by server: 1
+Voluntary Context switches by server: 1407
+Non-voluntary Context switches by server: 366
+Number of read system calls by server: 3440
+Number of write system calls by server: 2759
+Number of bytes read from disk: 0
+Amount of time server is scheduled in User Mode: 3002
+Amount of time server is scheduled in Kernel Mode: 212
+Priority of server process is: 20
+Nice value of server process is: 0
+Number of pages swapped: 134512640
+CPU Scheduling policy used for process: 0
+
+======================================================================================================
+Stats Collection of server program with PID: 3880
+
+Program file name of server running: server.out
+State of server process: S (sleeping)
+Virtual Memory Used by server:   677884 kB
+Resident Memory Used by server:   107432 kB
+Number of threads running by server: 3
+Number of CPU's used by server: 1
+Voluntary Context switches by server: 1407
+Non-voluntary Context switches by server: 366
+Number of read system calls by server: 3441
+Number of write system calls by server: 2762
+Number of bytes read from disk: 0
+Amount of time server is scheduled in User Mode: 3002
+Amount of time server is scheduled in Kernel Mode: 212
+Priority of server process is: 20
+Nice value of server process is: 0
+Number of pages swapped: 134512640
+CPU Scheduling policy used for process: 0
+
+======================================================================================================
+Stats Collection of server program with PID: 3880
+
+Program file name of server running: server.out
+State of server process: S (sleeping)
+Virtual Memory Used by server:   752684 kB
+Resident Memory Used by server:    85380 kB
+Number of threads running by server: 3
+Number of CPU's used by server: 1
+Voluntary Context switches by server: 1680
+Non-voluntary Context switches by server: 368
+Number of read system calls by server: 4054
+Number of write system calls by server: 3200
+Number of bytes read from disk: 0
+Amount of time server is scheduled in User Mode: 3482
+Amount of time server is scheduled in Kernel Mode: 239
+Priority of server process is: 20
+Nice value of server process is: 0
+Number of pages swapped: 134512640
+CPU Scheduling policy used for process: 0
+
+======================================================================================================
+Stats Collection of server program with PID: 3880
+
+Program file name of server running: server.out
+State of server process: S (sleeping)
+Virtual Memory Used by server:   739372 kB
+Resident Memory Used by server:    71760 kB
+Number of threads running by server: 3
+Number of CPU's used by server: 1
+Voluntary Context switches by server: 1680
+Non-voluntary Context switches by server: 368
+Number of read system calls by server: 4055
+Number of write system calls by server: 3203
+Number of bytes read from disk: 0
+Amount of time server is scheduled in User Mode: 3482
+Amount of time server is scheduled in Kernel Mode: 240
+Priority of server process is: 20
+Nice value of server process is: 0
+Number of pages swapped: 134512640
+CPU Scheduling policy used for process: 0
+
+======================================================================================================
+Stats Collection of server program with PID: 3880
+
+Program file name of server running: server.out
+State of server process: S (sleeping)
+Virtual Memory Used by server:   739372 kB
+Resident Memory Used by server:    71752 kB
+Number of threads running by server: 3
+Number of CPU's used by server: 1
+Voluntary Context switches by server: 1680
+Non-voluntary Context switches by server: 368
+Number of read system calls by server: 4056
+Number of write system calls by server: 3206
+Number of bytes read from disk: 0
+Amount of time server is scheduled in User Mode: 3483
+Amount of time server is scheduled in Kernel Mode: 241
+Priority of server process is: 20
+Nice value of server process is: 0
+Number of pages swapped: 134512640
+CPU Scheduling policy used for process: 0
+
+======================================================================================================
+Stats Collection of server program with PID: 3880
+
+Program file name of server running: server.out
+State of server process: S (sleeping)
+Virtual Memory Used by server:   739372 kB
+Resident Memory Used by server:    71752 kB
+Number of threads running by server: 3
+Number of CPU's used by server: 1
+Voluntary Context switches by server: 1680
+Non-voluntary Context switches by server: 368
+Number of read system calls by server: 4057
+Number of write system calls by server: 3209
+Number of bytes read from disk: 0
+Amount of time server is scheduled in User Mode: 3483
+Amount of time server is scheduled in Kernel Mode: 241
+Priority of server process is: 20
+Nice value of server process is: 0
+Number of pages swapped: 134512640
+CPU Scheduling policy used for process: 0
+
+======================================================================================================
+Stats Collection of server program with PID: 3880
+
+Program file name of server running: server.out
+State of server process: S (sleeping)
+Virtual Memory Used by server:   739372 kB
+Resident Memory Used by server:    71752 kB
+Number of threads running by server: 3
+Number of CPU's used by server: 1
+Voluntary Context switches by server: 1680
+Non-voluntary Context switches by server: 368
+Number of read system calls by server: 4058
+Number of write system calls by server: 3212
+Number of bytes read from disk: 0
+Amount of time server is scheduled in User Mode: 3483
+Amount of time server is scheduled in Kernel Mode: 241
+Priority of server process is: 20
+Nice value of server process is: 0
+Number of pages swapped: 134512640
+CPU Scheduling policy used for process: 0
+
+======================================================================================================
+Stats Collection of server program with PID: 3880
+
+Program file name of server running: server.out
+State of server process: S (sleeping)
+Virtual Memory Used by server:   739372 kB
+Resident Memory Used by server:    71752 kB
+Number of threads running by server: 3
+Number of CPU's used by server: 1
+Voluntary Context switches by server: 1680
+Non-voluntary Context switches by server: 368
+Number of read system calls by server: 4059
+Number of write system calls by server: 3215
+Number of bytes read from disk: 0
+Amount of time server is scheduled in User Mode: 3484
+Amount of time server is scheduled in Kernel Mode: 242
+Priority of server process is: 20
+Nice value of server process is: 0
+Number of pages swapped: 134512640
+CPU Scheduling policy used for process: 0
+

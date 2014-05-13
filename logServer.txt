@@ -1,0 +1,673 @@
+11/27/2013-08:46:40 INFO: Server started. Server PID: 3880 Socket ID: 3
+11/27/2013-08:46:40 INFO: CPU Used by the server: -nan
+11/27/2013-08:46:40 INFO: Virtual Memory Used by process:    21956 kB
+11/27/2013-08:46:40 INFO: Resident Memory Used by process:     1224 kB
+11/27/2013-08:46:46 INFO: Request received. Connection created successfully.
+11/27/2013-08:46:46 INFO: PIDCall received. PID successfully sent to client.
+11/27/2013-08:46:46 INFO: Request received. Connection created successfully.
+11/27/2013-08:46:46 INFO: Data bytes received from client. Bytes: 32
+11/27/2013-08:46:46 INFO: Received input file name from client: /media/sf_programs/project/b.txt
+11/27/2013-08:46:46 INFO: Total number of requests handled till now: 1
+11/27/2013-08:46:46 INFO: Request received. Connection created successfully.
+11/27/2013-08:46:46 INFO: Data bytes received from client. Bytes: 32
+11/27/2013-08:46:46 INFO: Received input file name from client: /media/sf_programs/project/b.txt
+11/27/2013-08:46:46 INFO: Total number of requests handled till now: 2
+11/27/2013-08:46:46 INFO: Request received. Connection created successfully.
+11/27/2013-08:46:46 INFO: Data bytes received from client. Bytes: 32
+11/27/2013-08:46:46 INFO: Received input file name from client: /media/sf_programs/project/b.txt
+11/27/2013-08:46:46 INFO: Total number of requests handled till now: 3
+11/27/2013-08:46:46 INFO: Request received. Connection created successfully.
+11/27/2013-08:46:46 INFO: Data bytes received from client. Bytes: 32
+11/27/2013-08:46:46 INFO: Received input file name from client: /media/sf_programs/project/b.txt
+11/27/2013-08:46:46 INFO: Total number of requests handled till now: 4
+11/27/2013-08:46:46 INFO: Request received. Connection created successfully.
+11/27/2013-08:46:46 INFO: Data bytes received from client. Bytes: 32
+11/27/2013-08:46:46 INFO: Received input file name from client: /media/sf_programs/project/b.txt
+11/27/2013-08:46:46 INFO: Total number of requests handled till now: 5
+11/27/2013-08:46:46 INFO: Request received. Connection created successfully.
+11/27/2013-08:46:46 INFO: Data bytes received from client. Bytes: 32
+11/27/2013-08:46:46 INFO: Received input file name from client: /media/sf_programs/project/b.txt
+11/27/2013-08:46:46 INFO: Total number of requests handled till now: 6
+11/27/2013-08:46:46 INFO: Request received. Connection created successfully.
+11/27/2013-08:46:46 INFO: Data bytes received from client. Bytes: 32
+11/27/2013-08:46:46 INFO: Received input file name from client: /media/sf_programs/project/b.txt
+11/27/2013-08:46:46 INFO: Total number of requests handled till now: 7
+11/27/2013-08:46:46 INFO: Request received. Connection created successfully.
+11/27/2013-08:46:46 INFO: New request thread spinned. Thread ID: 3054500672
+11/27/2013-08:46:46 INFO: Data bytes received from client. Bytes: 32
+11/27/2013-08:46:46 INFO: Received input file name from client: /media/sf_programs/project/b.txt
+11/27/2013-08:46:46 INFO: Total number of requests handled till now: 8
+11/27/2013-08:46:46 INFO: Request received. Connection created successfully.
+11/27/2013-08:46:46 INFO: Data bytes received from client. Bytes: 32
+11/27/2013-08:46:46 INFO: Received input file name from client: /media/sf_programs/project/b.txt
+11/27/2013-08:46:46 INFO: Total number of requests handled till now: 9
+11/27/2013-08:46:46 INFO: Request received. Connection created successfully.
+11/27/2013-08:46:46 INFO: Data bytes received from client. Bytes: 32
+11/27/2013-08:46:46 INFO: Received input file name from client: /media/sf_programs/project/b.txt
+11/27/2013-08:46:46 INFO: Total number of requests handled till now: 10
+11/27/2013-08:46:46 INFO: Request received. Connection created successfully.
+11/27/2013-08:46:46 INFO: Data bytes received from client. Bytes: 32
+11/27/2013-08:46:46 INFO: Received input file name from client: /media/sf_programs/project/b.txt
+11/27/2013-08:46:46 INFO: Total number of requests handled till now: 11
+11/27/2013-08:46:46 INFO: Request received. Connection created successfully.
+11/27/2013-08:46:46 INFO: Request received. Connection created successfully.
+
+11/27/2013-08:46:46 INFO: Data bytes received from client. Bytes: 32
+11/27/2013-08:46:46 INFO: Received input file name from client: /media/sf_programs/project/b.txt
+11/27/2013-08:46:46 INFO: New request thread spinned. Thread ID: 3046107968
+11/27/2013-08:46:46 INFO: New request thread spinned. Thread ID: 3029322560
+11/27/2013-08:46:46 INFO: Total number of requests handled till now: 12
+11/27/2013-08:46:46 INFO: New request thread spinned. Thread ID: 3037715264
+11/27/2013-08:46:46 INFO: Request received. Connection created successfully.
+11/27/2013-08:46:46 INFO: Data bytes received from client. Bytes: 32
+11/27/2013-08:46:46 INFO: Received input file name from client: /media/sf_programs/project/b.txt
+11/27/2013-08:46:46 INFO: Total number of requests handled till now: 13
+11/27/2013-08:46:46 INFO: Request received. Connection created successfully.
+11/27/2013-08:46:47 INFO: Data bytes received from client. Bytes: 32
+11/27/2013-08:46:47 INFO: Received input file name from client: /media/sf_programs/project/b.txt
+11/27/2013-08:46:47 INFO: Total number of requests handled till now: 14
+11/27/2013-08:46:47 INFO: Request received. Connection created successfully.
+11/27/2013-08:46:47 INFO: Data bytes received from client. Bytes: 32
+11/27/2013-08:46:47 INFO: Received input file name from client: /media/sf_programs/project/b.txt
+11/27/2013-08:46:47 INFO: New request thread spinned. Thread ID: 3020929856
+11/27/2013-08:46:47 INFO: New request thread spinned. Thread ID: 3004144448
+11/27/2013-08:46:47 INFO: Total number of requests handled till now: 15
+11/27/2013-08:46:47 INFO: Request received. Connection created successfully.
+11/27/2013-08:46:47 INFO: Data bytes received from client. Bytes: 32
+11/27/2013-08:46:47 INFO: Received input file name from client: /media/sf_programs/project/b.txt
+11/27/2013-08:46:47 INFO: Total number of requests handled till now: 16
+11/27/2013-08:46:47 INFO: Request received. Connection created successfully.
+11/27/2013-08:46:47 INFO: Data bytes received from client. Bytes: 32
+11/27/2013-08:46:47 INFO: Received input file name from client: /media/sf_programs/project/b.txt
+11/27/2013-08:46:47 INFO: Total number of requests handled till now: 17
+11/27/2013-08:46:47 INFO: Request received. Connection created successfully.
+11/27/2013-08:46:47 INFO: Request received. Connection created successfully.
+
+11/27/2013-08:46:47 INFO: New request thread spinned. Thread ID: 3012537152
+11/27/2013-08:46:47 INFO: Data bytes received from client. Bytes: 32
+11/27/2013-08:46:47 INFO: Received input file name from client: /media/sf_programs/project/b.txt
+11/27/2013-08:46:47 INFO: Total number of requests handled till now: 18
+11/27/2013-08:46:47 INFO: Request received. Connection created successfully.
+11/27/2013-08:46:47 INFO: Data bytes received from client. Bytes: 32
+11/27/2013-08:46:47 INFO: Received input file name from client: /media/sf_programs/project/b.txt
+11/27/2013-08:46:47 INFO: Total number of requests handled till now: 19
+11/27/2013-08:46:47 INFO: New request thread spinned. Thread ID: 2985294656
+11/27/2013-08:46:47 INFO: New request thread spinned. Thread ID: 2974808896
+11/27/2013-08:46:47 INFO: Request received. Connection created successfully.
+11/27/2013-08:46:47 INFO: Data bytes received from client. Bytes: 32
+11/27/2013-08:46:47 INFO: Received input file name from client: /media/sf_programs/project/b.txt
+11/27/2013-08:46:47 INFO: Total number of requests handled till now: 20
+11/27/2013-08:46:47 INFO: Request received. Connection created successfully.
+11/27/2013-08:46:47 INFO: New request thread spinned. Thread ID: 2995751744
+11/27/2013-08:46:47 INFO: Data bytes received from client. Bytes: 32
+11/27/2013-08:46:47 INFO: Received input file name from client: /media/sf_programs/project/b.txt
+11/27/2013-08:46:47 INFO: Total number of requests handled till now: 21
+11/27/2013-08:46:47 INFO: Request received. Connection created successfully.
+11/27/2013-08:46:47 INFO: New request thread spinned. Thread ID: 2945448768
+11/27/2013-08:46:47 INFO: New request thread spinned. Thread ID: 2966416192
+11/27/2013-08:46:48 INFO: New request thread spinned. Thread ID: 2955934528
+11/27/2013-08:46:48 INFO: New request thread spinned. Thread ID: 2926574400
+11/27/2013-08:46:48 INFO: New request thread spinned. Thread ID: 2926574400
+11/27/2013-08:46:48 INFO: New request thread spinned. Thread ID: 2916088640
+11/27/2013-08:46:48 INFO: New request thread spinned. Thread ID: 2907695936
+11/27/2013-08:46:48 INFO: New request thread spinned. Thread ID: 2937056064
+11/27/2013-08:46:48 INFO: New request thread spinned. Thread ID: 2880432960
+11/27/2013-08:46:48 INFO: New request thread spinned. Thread ID: 2888825664
+11/27/2013-08:46:48 INFO: New request thread spinned. Thread ID: 2869951296
+11/27/2013-08:46:48 INFO: New request thread spinned. Thread ID: 2899303232
+11/27/2013-08:46:50 INFO: CPU Used by the server: 35.5
+11/27/2013-08:46:50 INFO: Virtual Memory Used by process:   247436 kB
+11/27/2013-08:46:50 INFO: Resident Memory Used by process:    50480 kB
+11/27/2013-08:46:55 INFO: Request Number: 1 completed successfully in 9102.2 ms.
+11/27/2013-08:46:55 INFO: Request Number: 4 completed successfully in 9310.29 ms.
+11/27/2013-08:46:55 INFO: Request Number: 7 completed successfully in 9267.29 ms.
+11/27/2013-08:46:55 INFO: Request Number: 10 completed successfully in 9015.29 ms.
+11/27/2013-08:46:56 INFO: Request Number: 13 completed successfully in 9220.07 ms.
+11/27/2013-08:46:56 INFO: Request Number: 13 completed successfully in 9220.07 ms.
+Char Count: A => 50405
+Char Count: B => 20162
+11/27/2013-08:46:56 INFO: Request Number: 15 completed successfully in 9082.1 ms.
+11/27/2013-08:46:56 INFO: Request Number: 16 completed successfully in 9048.62 ms.
+11/27/2013-08:46:56 INFO: Request Number: 16 completed successfully in 9048.62 ms.
+Total no. of words: 60487
+Total no. of characters: 342754
+11/27/2013-08:46:56 INFO: Request Number: 17 completed successfully in 9079.79 ms.
+11/27/2013-08:46:56 INFO: Request Number: 19 completed successfully in 9021.74 ms.
+11/27/2013-08:46:56 INFO: Request Number: 19 completed successfully in 9021.74 ms.
+File processing: /media/sf_programs/project/b.txt Thread ID: 2880432960
+
+Total no. of lines: 30244
+Total no. of words: 60487
+Total no. of characters: 342754
+11/27/2013-08:46:56 INFO: Request Number: 20 completed successfully in 9044.92 ms.
+11/27/2013-08:46:56 INFO: Request Number: 2 completed successfully in 10487.6 ms.
+11/27/2013-08:46:56 INFO: Request Number: 5 completed successfully in 10467.2 ms.
+11/27/2013-08:46:56 INFO: Request Number: 3 completed successfully in 10693.5 ms.
+11/27/2013-08:46:57 INFO: Request Number: 8 completed successfully in 10425.3 ms.
+11/27/2013-08:46:57 INFO: Request Number: 11 completed successfully in 10179.8 ms.
+11/27/2013-08:46:57 INFO: Request Number: 9 completed successfully in 10432.5 ms.
+11/27/2013-08:46:57 INFO: Request Number: 12 completed successfully in 10177.9 ms.
+11/27/2013-08:46:57 INFO: Request Number: 6 completed successfully in 10792.8 ms.
+11/27/2013-08:46:57 INFO: Request Number: 14 completed successfully in 10137.4 ms.
+11/27/2013-08:46:57 INFO: Request Number: 18 completed successfully in 9866.98 ms.
+11/27/2013-08:46:57 INFO: Request Number: 21 completed successfully in 9689.66 ms.
+11/27/2013-08:47:00 INFO: CPU Used by the server: 64.243
+11/27/2013-08:47:00 INFO: Virtual Memory Used by process:   265028 kB
+11/27/2013-08:47:00 INFO: Resident Memory Used by process:    73352 kB
+11/27/2013-08:47:05 INFO: Data bytes received from client. Bytes: 32
+11/27/2013-08:47:05 INFO: Received input file name from client: /media/sf_programs/project/b.txt
+11/27/2013-08:47:05 INFO: Total number of requests handled till now: 22
+11/27/2013-08:47:05 INFO: Request received. Connection created successfully.
+11/27/2013-08:47:05 INFO: Data bytes received from client. Bytes: 32
+11/27/2013-08:47:05 INFO: Received input file name from client: /media/sf_programs/project/b.txt
+11/27/2013-08:47:05 INFO: Total number of requests handled till now: 23
+11/27/2013-08:47:05 INFO: Request received. Connection created successfully.
+11/27/2013-08:47:05 INFO: Data bytes received from client. Bytes: 32
+11/27/2013-08:47:05 INFO: Received input file name from client: /media/sf_programs/project/b.txt
+11/27/2013-08:47:05 INFO: Total number of requests handled till now: 24
+11/27/2013-08:47:05 INFO: Request received. Connection created successfully.
+11/27/2013-08:47:05 INFO: Data bytes received from client. Bytes: 32
+11/27/2013-08:47:05 INFO: Received input file name from client: /media/sf_programs/project/b.txt
+11/27/2013-08:47:05 INFO: Total number of requests handled till now: 25
+11/27/2013-08:47:05 INFO: Request received. Connection created successfully.
+11/27/2013-08:47:05 INFO: Data bytes received from client. Bytes: 32
+11/27/2013-08:47:05 INFO: Received input file name from client: /media/sf_programs/project/b.txt
+11/27/2013-08:47:05 INFO: Total number of requests handled till now: 26
+11/27/2013-08:47:05 INFO: Request received. Connection created successfully.
+11/27/2013-08:47:05 INFO: Data bytes received from client. Bytes: 32
+11/27/2013-08:47:05 INFO: Received input file name from client: /media/sf_programs/project/b.txt
+11/27/2013-08:47:05 INFO: Total number of requests handled till now: 27
+11/27/2013-08:47:05 INFO: Request received. Connection created successfully.
+11/27/2013-08:47:05 INFO: Data bytes received from client. Bytes: 32
+11/27/2013-08:47:05 INFO: Received input file name from client: /media/sf_programs/project/b.txt
+11/27/2013-08:47:05 INFO: Total number of requests handled till now: 28
+11/27/2013-08:47:05 INFO: Request received. Connection created successfully.
+11/27/2013-08:47:05 INFO: Data bytes received from client. Bytes: 32
+11/27/2013-08:47:05 INFO: Received input file name from client: /media/sf_programs/project/b.txt
+11/27/2013-08:47:05 INFO: Total number of requests handled till now: 29
+11/27/2013-08:47:05 INFO: Request received. Connection created successfully.
+11/27/2013-08:47:05 INFO: Data bytes received from client. Bytes: 32
+11/27/2013-08:47:05 INFO: Received input file name from client: /media/sf_programs/project/b.txt
+11/27/2013-08:47:05 INFO: Total number of requests handled till now: 30
+11/27/2013-08:47:05 INFO: Request received. Connection created successfully.
+11/27/2013-08:47:05 INFO: Data bytes received from client. Bytes: 32
+11/27/2013-08:47:05 INFO: Received input file name from client: /media/sf_programs/project/b.txt
+11/27/2013-08:47:05 INFO: Total number of requests handled till now: 31
+11/27/2013-08:47:05 INFO: Request received. Connection created successfully.
+11/27/2013-08:47:05 INFO: Data bytes received from client. Bytes: 32
+11/27/2013-08:47:05 INFO: Received input file name from client: /media/sf_programs/project/b.txt
+11/27/2013-08:47:05 INFO: New request thread spinned. Thread ID: 2845829952
+11/27/2013-08:47:05 INFO: Total number of requests handled till now: 32
+11/27/2013-08:47:05 INFO: New request thread spinned. Thread ID: 2837437248
+11/27/2013-08:47:05 INFO: Request received. Connection created successfully.
+11/27/2013-08:47:05 INFO: Data bytes received from client. Bytes: 32
+11/27/2013-08:47:05 INFO: Received input file name from client: /media/sf_programs/project/b.txt
+11/27/2013-08:47:05 INFO: Total number of requests handled till now: 33
+11/27/2013-08:47:05 INFO: New request thread spinned. Thread ID: 2854222656
+11/27/2013-08:47:05 INFO: New request thread spinned. Thread ID: 2829044544
+11/27/2013-08:47:05 INFO: New request thread spinned. Thread ID: 2820651840
+11/27/2013-08:47:05 INFO: New request thread spinned. Thread ID: 2812259136
+11/27/2013-08:47:05 INFO: New request thread spinned. Thread ID: 2803866432
+11/27/2013-08:47:05 INFO: New request thread spinned. Thread ID: 2795473728
+11/27/2013-08:47:05 INFO: New request thread spinned. Thread ID: 2787081024
+11/27/2013-08:47:06 INFO: New request thread spinned. Thread ID: 2778688320
+11/27/2013-08:47:06 INFO: New request thread spinned. Thread ID: 2770295616
+11/27/2013-08:47:06 INFO: New request thread spinned. Thread ID: 2761902912
+11/27/2013-08:47:06 INFO: Request received. Connection created successfully.
+11/27/2013-08:47:06 INFO: Data bytes received from client. Bytes: 32
+11/27/2013-08:47:06 INFO: Received input file name from client: /media/sf_programs/project/b.txt
+11/27/2013-08:47:06 INFO: Total number of requests handled till now: 34
+11/27/2013-08:47:06 INFO: Request received. Connection created successfully.
+11/27/2013-08:47:06 INFO: Data bytes received from client. Bytes: 32
+11/27/2013-08:47:06 INFO: Received input file name from client: /media/sf_programs/project/b.txt
+11/27/2013-08:47:06 INFO: Total number of requests handled till now: 35
+11/27/2013-08:47:06 INFO: Request received. Connection created successfully.
+11/27/2013-08:47:06 INFO: Data bytes received from client. Bytes: 32
+11/27/2013-08:47:06 INFO: Received input file name from client: /media/sf_programs/project/b.txt
+11/27/2013-08:47:06 INFO: Total number of requests handled till now: 36
+11/27/2013-08:47:06 INFO: Request received. Connection created successfully.
+11/27/2013-08:47:06 INFO: Data bytes received from client. Bytes: 32
+11/27/2013-08:47:06 INFO: Received input file name from client: /media/sf_programs/project/b.txt
+11/27/2013-08:47:06 INFO: Total number of requests handled till now: 37
+11/27/2013-08:47:06 INFO: Request received. Connection created successfully.
+11/27/2013-08:47:06 INFO: Data bytes received from client. Bytes: 32
+11/27/2013-08:47:06 INFO: Received input file name from client: /media/sf_programs/project/b.txt
+11/27/2013-08:47:06 INFO: Total number of requests handled till now: 38
+11/27/2013-08:47:06 INFO: Request received. Connection created successfully.
+11/27/2013-08:47:06 INFO: Data bytes received from client. Bytes: 32
+11/27/2013-08:47:06 INFO: Received input file name from client: /media/sf_programs/project/b.txt
+11/27/2013-08:47:06 INFO: Total number of requests handled till now: 39
+11/27/2013-08:47:06 INFO: Request received. Connection created successfully.
+11/27/2013-08:47:06 INFO: Data bytes received from client. Bytes: 32
+11/27/2013-08:47:06 INFO: Received input file name from client: /media/sf_programs/project/b.txt
+11/27/2013-08:47:06 INFO: Total number of requests handled till now: 40
+11/27/2013-08:47:06 INFO: Request received. Connection created successfully.
+11/27/2013-08:47:06 INFO: Data bytes received from client. Bytes: 32
+11/27/2013-08:47:06 INFO: Received input file name from client: /media/sf_programs/project/b.txt
+11/27/2013-08:47:06 INFO: Total number of requests handled till now: 41
+11/27/2013-08:47:06 INFO: Request received. Connection created successfully.
+11/27/2013-08:47:06 INFO: Data bytes received from client. Bytes: 32
+11/27/2013-08:47:07 INFO: Received input file name from client: /media/sf_programs/project/b.txt
+11/27/2013-08:47:07 INFO: Total number of requests handled till now: 42
+11/27/2013-08:47:07 INFO: Request received. Connection created successfully.
+11/27/2013-08:47:07 INFO: Data bytes received from client. Bytes: 32
+11/27/2013-08:47:07 INFO: Received input file name from client: /media/sf_programs/project/b.txt
+11/27/2013-08:47:07 INFO: Total number of requests handled till now: 43
+11/27/2013-08:47:07 INFO: Request received. Connection created successfully.
+11/27/2013-08:47:07 INFO: Data bytes received from client. Bytes: 32
+11/27/2013-08:47:07 INFO: Received input file name from client: /media/sf_programs/project/b.txt
+11/27/2013-08:47:07 INFO: Total number of requests handled till now: 44
+11/27/2013-08:47:07 INFO: Request received. Connection created successfully.
+11/27/2013-08:47:07 INFO: Data bytes received from client. Bytes: 32
+11/27/2013-08:47:07 INFO: Received input file name from client: /media/sf_programs/project/b.txt
+11/27/2013-08:47:07 INFO: Total number of requests handled till now: 45
+11/27/2013-08:47:07 INFO: Request received. Connection created successfully.
+11/27/2013-08:47:07 INFO: Data bytes received from client. Bytes: 32
+11/27/2013-08:47:07 INFO: Received input file name from client: /media/sf_programs/project/b.txt
+11/27/2013-08:47:07 INFO: Total number of requests handled till now: 46
+11/27/2013-08:47:07 INFO: Request received. Connection created successfully.
+11/27/2013-08:47:07 INFO: Data bytes received from client. Bytes: 32
+11/27/2013-08:47:07 INFO: Received input file name from client: /media/sf_programs/project/b.txt
+11/27/2013-08:47:07 INFO: Total number of requests handled till now: 47
+11/27/2013-08:47:07 INFO: Request received. Connection created successfully.
+11/27/2013-08:47:07 INFO: Data bytes received from client. Bytes: 32
+11/27/2013-08:47:07 INFO: Received input file name from client: /media/sf_programs/project/b.txt
+11/27/2013-08:47:07 INFO: Total number of requests handled till now: 48
+11/27/2013-08:47:07 INFO: Request received. Connection created successfully.
+11/27/2013-08:47:07 INFO: Data bytes received from client. Bytes: 32
+11/27/2013-08:47:07 INFO: Received input file name from client: /media/sf_programs/project/b.txt
+11/27/2013-08:47:07 INFO: Total number of requests handled till now: 49
+11/27/2013-08:47:07 INFO: Total number of requests handled till now: 49
+
+11/27/2013-08:47:07 INFO: New request thread spinned. Thread ID: 2743073600
+11/27/2013-08:47:07 INFO: Request received. Connection created successfully.
+11/27/2013-08:47:07 INFO: New request thread spinned. Thread ID: 2726288192
+11/27/2013-08:47:07 INFO: New request thread spinned. Thread ID: 2734680896
+11/27/2013-08:47:08 INFO: New request thread spinned. Thread ID: 2709502784
+11/27/2013-08:47:08 INFO: New request thread spinned. Thread ID: 2717895488
+11/27/2013-08:47:08 INFO: New request thread spinned. Thread ID: 2688547648
+11/27/2013-08:47:08 INFO: New request thread spinned. Thread ID: 2678061888
+11/27/2013-08:47:08 INFO: New request thread spinned. Thread ID: 2678061888
+
+11/27/2013-08:47:08 INFO: New request thread spinned. Thread ID: 2699033408
+11/27/2013-08:47:08 INFO: New request thread spinned. Thread ID: 2646604608
+11/27/2013-08:47:09 INFO: New request thread spinned. Thread ID: 2667576128
+11/27/2013-08:47:09 INFO: New request thread spinned. Thread ID: 2657090368
+11/27/2013-08:47:09 INFO: New request thread spinned. Thread ID: 2636118848
+11/27/2013-08:47:09 INFO: New request thread spinned. Thread ID: 2615147328
+11/27/2013-08:47:09 INFO: New request thread spinned. Thread ID: 2625633088
+11/27/2013-08:47:10 INFO: New request thread spinned. Thread ID: 2602564416
+11/27/2013-08:47:10 INFO: New request thread spinned. Thread ID: 2592078656
+11/27/2013-08:47:10 INFO: CPU Used by the server: 44.7211
+11/27/2013-08:47:10 INFO: Virtual Memory Used by process:   535000 kB
+11/27/2013-08:47:10 INFO: Resident Memory Used by process:   105324 kB
+11/27/2013-08:47:13 INFO: Request Number: 22 completed successfully in 8013.2 ms.
+11/27/2013-08:47:14 INFO: Data bytes received from client. Bytes: 32
+11/27/2013-08:47:14 INFO: Received input file name from client: /media/sf_programs/project/b.txt
+11/27/2013-08:47:14 INFO: Total number of requests handled till now: 50
+11/27/2013-08:47:14 INFO: Request received. Connection created successfully.
+11/27/2013-08:47:14 INFO: Data bytes received from client. Bytes: 32
+11/27/2013-08:47:14 INFO: Received input file name from client: /media/sf_programs/project/b.txt
+11/27/2013-08:47:14 INFO: Total number of requests handled till now: 51
+11/27/2013-08:47:14 INFO: Request received. Connection created successfully.
+11/27/2013-08:47:14 INFO: New request thread spinned. Thread ID: 2512386880
+11/27/2013-08:47:15 INFO: Data bytes received from client. Bytes: 32
+11/27/2013-08:47:15 INFO: Received input file name from client: /media/sf_programs/project/b.txt
+11/27/2013-08:47:15 INFO: Total number of requests handled till now: 52
+11/27/2013-08:47:15 INFO: Request received. Connection created successfully.
+11/27/2013-08:47:15 INFO: Data bytes received from client. Bytes: 32
+11/27/2013-08:47:15 INFO: Received input file name from client: /media/sf_programs/project/b.txt
+11/27/2013-08:47:15 INFO: Total number of requests handled till now: 53
+11/27/2013-08:47:15 INFO: Request received. Connection created successfully.
+11/27/2013-08:47:15 INFO: Data bytes received from client. Bytes: 32
+11/27/2013-08:47:15 INFO: Received input file name from client: /media/sf_programs/project/b.txt
+11/27/2013-08:47:15 INFO: Total number of requests handled till now: 54
+11/27/2013-08:47:15 INFO: Request received. Connection created successfully.
+11/27/2013-08:47:15 INFO: Data bytes received from client. Bytes: 32
+11/27/2013-08:47:15 INFO: Received input file name from client: /media/sf_programs/project/b.txt
+11/27/2013-08:47:15 INFO: Total number of requests handled till now: 55
+11/27/2013-08:47:15 INFO: Request received. Connection created successfully.
+11/27/2013-08:47:15 INFO: Data bytes received from client. Bytes: 32
+11/27/2013-08:47:15 INFO: Received input file name from client: /media/sf_programs/project/b.txt
+11/27/2013-08:47:15 INFO: Total number of requests handled till now: 56
+11/27/2013-08:47:15 INFO: Request received. Connection created successfully.
+11/27/2013-08:47:15 INFO: Data bytes received from client. Bytes: 32
+11/27/2013-08:47:15 INFO: Received input file name from client: /media/sf_programs/project/b.txt
+11/27/2013-08:47:15 INFO: Total number of requests handled till now: 57
+11/27/2013-08:47:15 INFO: Request received. Connection created successfully.
+11/27/2013-08:47:15 INFO: Data bytes received from client. Bytes: 32
+11/27/2013-08:47:15 INFO: Received input file name from client: /media/sf_programs/project/b.txt
+11/27/2013-08:47:15 INFO: Total number of requests handled till now: 58
+11/27/2013-08:47:16 INFO: Request received. Connection created successfully.
+11/27/2013-08:47:16 INFO: Data bytes received from client. Bytes: 32
+11/27/2013-08:47:16 INFO: Received input file name from client: /media/sf_programs/project/b.txt
+11/27/2013-08:47:16 INFO: Total number of requests handled till now: 59
+11/27/2013-08:47:16 INFO: Request received. Connection created successfully.
+11/27/2013-08:47:16 INFO: Data bytes received from client. Bytes: 32
+11/27/2013-08:47:16 INFO: Received input file name from client: /media/sf_programs/project/b.txt
+11/27/2013-08:47:16 INFO: Total number of requests handled till now: 60
+11/27/2013-08:47:16 INFO: Request received. Connection created successfully.
+11/27/2013-08:47:16 INFO: Data bytes received from client. Bytes: 32
+11/27/2013-08:47:16 INFO: Received input file name from client: /media/sf_programs/project/b.txt
+11/27/2013-08:47:16 INFO: Total number of requests handled till now: 61
+11/27/2013-08:47:16 INFO: Request received. Connection created successfully.
+11/27/2013-08:47:16 INFO: Data bytes received from client. Bytes: 32
+11/27/2013-08:47:16 INFO: Received input file name from client: /media/sf_programs/project/b.txt
+11/27/2013-08:47:16 INFO: Total number of requests handled till now: 62
+11/27/2013-08:47:16 INFO: Request received. Connection created successfully.
+11/27/2013-08:47:16 INFO: Data bytes received from client. Bytes: 32
+11/27/2013-08:47:16 INFO: Received input file name from client: /media/sf_programs/project/b.txt
+11/27/2013-08:47:16 INFO: Total number of requests handled till now: 63
+11/27/2013-08:47:16 INFO: Request received. Connection created successfully.
+11/27/2013-08:47:17 INFO: Request Number: 23 completed successfully in 12395.3 ms.
+11/27/2013-08:47:17 INFO: Request Number: 26 completed successfully in 12688.5 ms.
+11/27/2013-08:47:18 INFO: Request Number: 28 completed successfully in 12886.2 ms.
+11/27/2013-08:47:18 INFO: Request Number: 25 completed successfully in 13013.6 ms.
+11/27/2013-08:47:18 INFO: Request Number: 25 completed successfully in 13013.6 ms.
+
+11/27/2013-08:47:18 INFO: New request thread spinned. Thread ID: 2485123904
+11/27/2013-08:47:18 INFO: New request thread spinned. Thread ID: 2503994176
+11/27/2013-08:47:18 INFO: New request thread spinned. Thread ID: 2503994176
+
+Char Count: L => 30243
+Char Count: M => 10081
+Char Count: N => 10081
+Char Count: O => 20162
+Char Count: R => 30243
+Char Count: S => 10081
+11/27/2013-08:47:18 INFO: Data bytes received from client. Bytes: 32
+11/27/2013-08:47:18 INFO: Received input file name from client: /media/sf_programs/project/b.txt
+11/27/2013-08:47:18 INFO: Total number of requests handled till now: 64
+11/27/2013-08:47:18 INFO: Request received. Connection created successfully.
+11/27/2013-08:47:18 INFO: Data bytes received from client. Bytes: 32
+11/27/2013-08:47:18 INFO: Received input file name from client: /media/sf_programs/project/b.txt
+11/27/2013-08:47:18 INFO: Total number of requests handled till now: 65
+11/27/2013-08:47:18 INFO: New request thread spinned. Thread ID: 2450500416
+11/27/2013-08:47:18 INFO: Request Number: 29 completed successfully in 13123.9 ms.
+11/27/2013-08:47:18 INFO: Request Number: 24 completed successfully in 13297.4 ms.
+11/27/2013-08:47:18 INFO: New request thread spinned. Thread ID: 2442107712
+11/27/2013-08:47:18 INFO: Request received. Connection created successfully.
+11/27/2013-08:47:18 INFO: Data bytes received from client. Bytes: 32
+11/27/2013-08:47:18 INFO: Received input file name from client: /media/sf_programs/project/b.txt
+11/27/2013-08:47:18 INFO: Total number of requests handled till now: 66
+11/27/2013-08:47:18 INFO: New request thread spinned. Thread ID: 2409618240
+11/27/2013-08:47:18 INFO: New request thread spinned. Thread ID: 2382363456
+11/27/2013-08:47:18 INFO: New request thread spinned. Thread ID: 2430593856
+11/27/2013-08:47:18 INFO: New request thread spinned. Thread ID: 2458893120
+11/27/2013-08:47:18 INFO: Request received. Connection created successfully.
+11/27/2013-08:47:18 INFO: Data bytes received from client. Bytes: 32
+11/27/2013-08:47:18 INFO: Received input file name from client: /media/sf_programs/project/b.txt
+11/27/2013-08:47:18 INFO: New request thread spinned. Thread ID: 2467285824
+11/27/2013-08:47:18 INFO: New request thread spinned. Thread ID: 2467285824
+
+
+11/27/2013-08:47:18 INFO: New request thread spinned. Thread ID: 2475678528
+11/27/2013-08:47:19 INFO: New request thread spinned. Thread ID: 2392832832
+11/27/2013-08:47:19 INFO: Total number of requests handled till now: 67
+11/27/2013-08:47:19 INFO: Request received. Connection created successfully.
+11/27/2013-08:47:19 INFO: Request received. Connection created successfully.
+
+Total no. of lines: 30244
+11/27/2013-08:47:19 INFO: New request thread spinned. Thread ID: 2422201152
+11/27/2013-08:47:19 INFO: New request thread spinned. Thread ID: 2422201152
+Word Count: ABCD => 10082
+Word Count: EFGH => 10081
+11/27/2013-08:47:19 INFO: New request thread spinned. Thread ID: 2401225536
+11/27/2013-08:47:19 INFO: Request Number: 31 completed successfully in 13682.2 ms.
+11/27/2013-08:47:19 INFO: Request Number: 30 completed successfully in 14300.9 ms.
+11/27/2013-08:47:19 INFO: New request thread spinned. Thread ID: 2340408128
+11/27/2013-08:47:19 INFO: New request thread spinned. Thread ID: 2348800832
+11/27/2013-08:47:20 INFO: New request thread spinned. Thread ID: 2332015424
+11/27/2013-08:47:20 INFO: Request Number: 27 completed successfully in 14970.6 ms.
+11/27/2013-08:47:20 INFO: New request thread spinned. Thread ID: 2323622720
+11/27/2013-08:47:20 INFO: Request Number: 32 completed successfully in 15086.3 ms.
+11/27/2013-08:47:21 INFO: CPU Used by the server: 93.707
+11/27/2013-08:47:21 INFO: Virtual Memory Used by process:   749656 kB
+11/27/2013-08:47:21 INFO: Resident Memory Used by process:   169184 kB
+11/27/2013-08:47:21 INFO: Request Number: 38 completed successfully in 14357.9 ms.
+11/27/2013-08:47:21 INFO: Request Number: 35 completed successfully in 14755.7 ms.
+11/27/2013-08:47:21 INFO: Request Number: 36 completed successfully in 14822.1 ms.
+11/27/2013-08:47:21 INFO: Request Number: 33 completed successfully in 15837.8 ms.
+11/27/2013-08:47:21 INFO: Request Number: 35 completed successfully in 15171.9 ms.
+11/27/2013-08:47:22 INFO: Request Number: 38 completed successfully in 15616.1 ms.
+11/27/2013-08:47:22 INFO: Request Number: 41 completed successfully in 15492.1 ms.
+11/27/2013-08:47:22 INFO: Request Number: 41 completed successfully in 15759.6 ms.
+11/27/2013-08:47:23 INFO: Request Number: 44 completed successfully in 15866.3 ms.
+11/27/2013-08:47:23 INFO: Request Number: 44 completed successfully in 15866.3 ms.
+Total no. of lines: 30244
+11/27/2013-08:47:23 INFO: Request Number: 43 completed successfully in 15927.6 ms.
+11/27/2013-08:47:23 INFO: Request Number: 44 completed successfully in 15988.5 ms.
+Char Count: B => 20162
+Char Count: C => 20162
+Char Count: D => 30243
+Char Count: E => 40324
+Char Count: F => 10081
+Char Count: G => 10081
+Char Count: H => 30243
+Char Count: J => 10081
+Char Count: L => 30243
+Char Count: M => 10081
+Char Count: N => 10081
+Char Count: O => 20162
+Char Count: R => 30243
+Char Count: S => 10081
+Char Count: W => 10081
+
+11/27/2013-08:47:23 INFO: Request Number: 45 completed successfully in 16320.4 ms.
+11/27/2013-08:47:24 INFO: Request Number: 47 completed successfully in 16727.1 ms.
+11/27/2013-08:47:24 INFO: Request Number: 49 completed successfully in 16885.4 ms.
+11/27/2013-08:47:24 INFO: Request Number: 48 completed successfully in 17087.9 ms.
+11/27/2013-08:47:25 INFO: Request Number: 51 completed successfully in 10537.6 ms.
+
+Total no. of lines: 30244
+Total no. of words: 60487
+Total no. of characters: 342754
+=============Words Repetition==============
+Word Count: ABCD => 10082
+Word Count: EFGH => 10081
+Word Count: HELLO => 10081
+Word Count: NEERAJ => 10081
+Word Count: SHARMA => 1
+Word Count: SHARMAABCD => 10080
+Word Count: WORLD => 10081
+
+===========Character Repetition============
+Char Count: A => 50405
+Char Count: B => 20162
+Char Count: C => 20162
+Char Count: D => 30243
+Char Count: E => 40324
+Char Count: F => 10081
+Char Count: G => 10081
+Char Count: H => 30243
+Char Count: J => 10081
+Char Count: L => 30243
+Char Count: M => 10081
+Char Count: N => 10081
+Char Count: O => 20162
+Char Count: R => 30243
+Char Count: S => 10081
+Char Count: W => 10081
+
+11/27/2013-08:47:28 INFO: Request Number: 63 completed successfully in 11994.2 ms.
+11/27/2013-08:47:28 INFO: Request Number: 58 completed successfully in 12412.6 ms.
+11/27/2013-08:47:28 INFO: Request Number: 62 completed successfully in 12189.1 ms.
+11/27/2013-08:47:28 INFO: Request Number: 56 completed successfully in 12613 ms.
+11/27/2013-08:47:28 INFO: Request Number: 62 completed successfully in 12284.2 ms.
+11/27/2013-08:47:28 INFO: Request Number: 51 completed successfully in 13841.6 ms.
+11/27/2013-08:47:28 INFO: Request Number: 57 completed successfully in 12700.2 ms.
+11/27/2013-08:47:28 INFO: Request Number: 60 completed successfully in 12553.9 ms.
+11/27/2013-08:47:28 INFO: Request Number: 52 completed successfully in 13124.9 ms.
+11/27/2013-08:47:28 INFO: Request Number: 65 completed successfully in 10378.5 ms.
+11/27/2013-08:47:28 INFO: Request Number: 53 completed successfully in 13254.5 ms.
+11/27/2013-08:47:28 INFO: Request Number: 53 completed successfully in 13254.5 ms.
+File processing: /media/sf_programs/project/b.txt Thread ID: 2332015424
+11/27/2013-08:47:28 INFO: Request Number: 67 completed successfully in 10148.5 ms.
+11/27/2013-08:47:28 INFO: Request Number: 67 completed successfully in 10148.5 ms.
+File processing: /media/sf_programs/project/b.txt Thread ID: 2422201152
+
+Total no. of lines: 30244
+Total no. of words: 60487
+Total no. of characters: 342754
+=============Words Repetition==============
+Word Count: ABCD => 10082
+Word Count: EFGH => 10081
+Word Count: HELLO => 10081
+Word Count: NEERAJ => 10081
+Word Count: SHARMA => 1
+Word Count: SHARMAABCD => 10080
+Word Count: WORLD => 10081
+
+===========Character Repetition============
+Char Count: A => 50405
+Char Count: B => 20162
+Char Count: C => 20162
+Char Count: D => 30243
+Char Count: E => 40324
+Char Count: F => 10081
+Char Count: G => 10081
+11/27/2013-08:47:29 INFO: Request Number: 60 completed successfully in 12939 ms.
+11/27/2013-08:47:29 INFO: Request Number: 54 completed successfully in 13287.5 ms.
+11/27/2013-08:47:29 INFO: Request Number: 67 completed successfully in 10154.8 ms.
+11/27/2013-08:47:29 INFO: Request Number: 64 completed successfully in 10769.5 ms.
+11/27/2013-08:47:31 INFO: CPU Used by the server: 79.1176
+11/27/2013-08:47:31 INFO: Virtual Memory Used by process:   714748 kB
+11/27/2013-08:47:31 INFO: Resident Memory Used by process:   144872 kB
+11/27/2013-08:47:41 INFO: CPU Used by the server: 0.1998
+11/27/2013-08:47:41 INFO: Virtual Memory Used by process:   700412 kB
+11/27/2013-08:47:41 INFO: Resident Memory Used by process:   130216 kB
+11/27/2013-08:47:51 INFO: Virtual Memory Used by process:   677884 kB
+11/27/2013-08:47:51 INFO: Resident Memory Used by process:   107432 kB
+11/27/2013-08:47:51 INFO: CPU Used by the server: 0.199203
+11/27/2013-08:48:00 INFO: Data bytes received from client. Bytes: 32
+11/27/2013-08:48:00 INFO: Received input file name from client: /media/sf_programs/project/b.txt
+11/27/2013-08:48:00 INFO: Total number of requests handled till now: 68
+11/27/2013-08:48:00 INFO: Request received. Connection created successfully.
+11/27/2013-08:48:00 INFO: Data bytes received from client. Bytes: 32
+11/27/2013-08:48:00 INFO: Received input file name from client: /media/sf_programs/project/b.txt
+11/27/2013-08:48:00 INFO: Total number of requests handled till now: 69
+11/27/2013-08:48:00 INFO: Request received. Connection created successfully.
+11/27/2013-08:48:00 INFO: Data bytes received from client. Bytes: 32
+11/27/2013-08:48:00 INFO: Received input file name from client: /media/sf_programs/project/b.txt
+11/27/2013-08:48:00 INFO: Total number of requests handled till now: 70
+11/27/2013-08:48:00 INFO: Request received. Connection created successfully.
+11/27/2013-08:48:00 INFO: Data bytes received from client. Bytes: 32
+11/27/2013-08:48:00 INFO: Received input file name from client: /media/sf_programs/project/b.txt
+11/27/2013-08:48:00 INFO: Total number of requests handled till now: 71
+11/27/2013-08:48:00 INFO: Request received. Connection created successfully.
+11/27/2013-08:48:00 INFO: Data bytes received from client. Bytes: 32
+11/27/2013-08:48:00 INFO: Received input file name from client: /media/sf_programs/project/b.txt
+11/27/2013-08:48:00 INFO: Total number of requests handled till now: 72
+11/27/2013-08:48:00 INFO: Request received. Connection created successfully.
+11/27/2013-08:48:00 INFO: Data bytes received from client. Bytes: 32
+11/27/2013-08:48:00 INFO: Received input file name from client: /media/sf_programs/project/b.txt
+11/27/2013-08:48:00 INFO: Total number of requests handled till now: 73
+11/27/2013-08:48:00 INFO: Request received. Connection created successfully.
+11/27/2013-08:48:00 INFO: Data bytes received from client. Bytes: 32
+11/27/2013-08:48:00 INFO: Received input file name from client: /media/sf_programs/project/b.txt
+11/27/2013-08:48:00 INFO: Total number of requests handled till now: 74
+11/27/2013-08:48:00 INFO: Request received. Connection created successfully.
+11/27/2013-08:48:00 INFO: Data bytes received from client. Bytes: 32
+11/27/2013-08:48:00 INFO: Received input file name from client: /media/sf_programs/project/b.txt
+11/27/2013-08:48:00 INFO: Total number of requests handled till now: 75
+11/27/2013-08:48:00 INFO: Request received. Connection created successfully.
+11/27/2013-08:48:00 INFO: Data bytes received from client. Bytes: 32
+11/27/2013-08:48:00 INFO: Received input file name from client: /media/sf_programs/project/b.txt
+11/27/2013-08:48:00 INFO: Total number of requests handled till now: 76
+11/27/2013-08:48:00 INFO: Request received. Connection created successfully.
+11/27/2013-08:48:00 INFO: Data bytes received from client. Bytes: 32
+11/27/2013-08:48:00 INFO: Received input file name from client: /media/sf_programs/project/b.txt
+11/27/2013-08:48:00 INFO: Total number of requests handled till now: 77
+11/27/2013-08:48:00 INFO: Request received. Connection created successfully.
+11/27/2013-08:48:00 INFO: Data bytes received from client. Bytes: 32
+11/27/2013-08:48:00 INFO: Received input file name from client: /media/sf_programs/project/b.txt
+11/27/2013-08:48:00 INFO: Total number of requests handled till now: 78
+11/27/2013-08:48:00 INFO: Request received. Connection created successfully.
+11/27/2013-08:48:00 INFO: Data bytes received from client. Bytes: 32
+11/27/2013-08:48:00 INFO: Received input file name from client: /media/sf_programs/project/b.txt
+11/27/2013-08:48:00 INFO: Total number of requests handled till now: 79
+11/27/2013-08:48:01 INFO: New request thread spinned. Thread ID: 2541747008
+11/27/2013-08:48:01 INFO: New request thread spinned. Thread ID: 2533354304
+11/27/2013-08:48:01 INFO: New request thread spinned. Thread ID: 2524961600
+11/27/2013-08:48:01 INFO: Virtual Memory Used by process:   771116 kB
+11/27/2013-08:48:01 INFO: Resident Memory Used by process:   103264 kB
+11/27/2013-08:48:01 INFO: CPU Used by the server: 3.09381
+11/27/2013-08:48:01 INFO: New request thread spinned. Thread ID: 2495601472
+11/27/2013-08:48:01 INFO: New request thread spinned. Thread ID: 2373970752
+11/27/2013-08:48:01 INFO: New request thread spinned. Thread ID: 2315230016
+11/27/2013-08:48:01 INFO: New request thread spinned. Thread ID: 2306837312
+11/27/2013-08:48:01 INFO: New request thread spinned. Thread ID: 2365578048
+11/27/2013-08:48:01 INFO: New request thread spinned. Thread ID: 2290051904
+11/27/2013-08:48:01 INFO: New request thread spinned. Thread ID: 2298444608
+11/27/2013-08:48:01 INFO: New request thread spinned. Thread ID: 2281659200
+11/27/2013-08:48:01 INFO: New request thread spinned. Thread ID: 2273266496
+11/27/2013-08:48:05 INFO: Request Number: 68 completed successfully in 4653.51 ms.
+11/27/2013-08:48:05 INFO: Request Number: 71 completed successfully in 4690.44 ms.
+11/27/2013-08:48:05 INFO: Request Number: 77 completed successfully in 4649.5 ms.
+11/27/2013-08:48:05 INFO: Request Number: 77 completed successfully in 4649.5 ms.
+
+Total no. of lines: 30244
+Total no. of words: 60487
+Total no. of characters: 342754
+=============Words Repetition==============
+Word Count: ABCD => 10082
+Word Count: EFGH => 10081
+Word Count: HELLO => 10081
+Word Count: NEERAJ => 10081
+Word Count: SHARMA => 1
+Word Count: SHARMAABCD => 10080
+Word Count: WORLD => 10081
+
+===========Character Repetition============
+Char Count: A => 50405
+Char Count: B => 20162
+Char Count: C => 20162
+Char Count: D => 30243
+Char Count: E => 40324
+Char Count: F => 10081
+Char Count: G => 10081
+Char Count: H => 30243
+Char Count: J => 10081
+Char Count: L => 30243
+Char Count: M => 10081
+Char Count: N => 10081
+Char Count: O => 20162
+Char Count: R => 30243
+Char Count: S => 10081
+Char Count: W => 10081
+
+11/27/2013-08:48:05 INFO: Request Number: 73 completed successfully in 4697.01 ms.
+11/27/2013-08:48:05 INFO: Request Number: 73 completed successfully in 4697.01 ms.
+===========Character Repetition============
+11/27/2013-08:48:05 INFO: Request Number: 70 completed successfully in 4734.54 ms.
+11/27/2013-08:48:05 INFO: Request Number: 70 completed successfully in 4734.54 ms.
+Char Count: E => 40324
+11/27/2013-08:48:05 INFO: Request Number: 69 completed successfully in 4760.62 ms.
+11/27/2013-08:48:05 INFO: Request Number: 75 completed successfully in 4735.43 ms.
+11/27/2013-08:48:05 INFO: Request Number: 77 completed successfully in 4726.66 ms.
+11/27/2013-08:48:05 INFO: Request Number: 77 completed successfully in 4726.66 ms.
+Word Count: ABCD => 10082
+Word Count: EFGH => 10081
+Word Count: HELLO => 10081
+Word Count: NEERAJ => 10081
+Word Count: SHARMA => 1
+Word Count: SHARMAABCD => 10080
+11/27/2013-08:48:05 INFO: Request Number: 76 completed successfully in 4761.2 ms.
+11/27/2013-08:48:05 INFO: Request Number: 72 completed successfully in 4799.97 ms.
+11/27/2013-08:48:05 INFO: Request Number: 79 completed successfully in 4737.74 ms.
+11/27/2013-08:48:05 INFO: Request Number: 78 completed successfully in 4910.08 ms.
+11/27/2013-08:48:11 INFO: Virtual Memory Used by process:   752684 kB
+11/27/2013-08:48:11 INFO: CPU Used by the server: 47.7
+11/27/2013-08:48:11 INFO: Resident Memory Used by process:    85380 kB
+11/27/2013-08:48:21 INFO: Virtual Memory Used by process:   739372 kB
+11/27/2013-08:48:21 INFO: Resident Memory Used by process:    71760 kB
+11/27/2013-08:48:21 INFO: CPU Used by the server: 0.0997009
+11/27/2013-08:48:31 INFO: Virtual Memory Used by process:   739372 kB
+11/27/2013-08:48:31 INFO: CPU Used by the server: 0.0999001
+11/27/2013-08:48:31 INFO: Resident Memory Used by process:    71752 kB
+11/27/2013-08:48:41 INFO: CPU Used by the server: 0
+11/27/2013-08:48:41 INFO: Virtual Memory Used by process:   739372 kB
+11/27/2013-08:48:41 INFO: Resident Memory Used by process:    71752 kB
+11/27/2013-08:48:51 INFO: CPU Used by the server: 0
+11/27/2013-08:48:51 INFO: Virtual Memory Used by process:   739376 kB
+11/27/2013-08:48:51 INFO: Resident Memory Used by process:    71752 kB

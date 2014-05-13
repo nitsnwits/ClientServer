@@ -1,0 +1,314 @@
+11/27/2013-08:46:46 INFO: Virtual Memory Used by process: 0912 kB
+11/27/2013-08:46:46 INFO: Resident Memory Used by process: 168 kB
+11/27/2013-08:46:46 INFO: CPU Used by the client: 0
+11/27/2013-08:46:46 INFO: Requesting server for PID..
+11/27/2013-08:46:46 INFO: Created Child Process for Server. Process Nummber: 1
+11/27/2013-08:46:46 INFO: Received PID of server: 3880
+11/27/2013-08:46:46 INFO: Connection successful with server.
+11/27/2013-08:46:46 INFO: File name of input file sent to server.
+11/27/2013-08:46:46 INFO: Created Child Process for Server. Process Nummber: 2
+11/27/2013-08:46:46 INFO: Connection successful with server.
+11/27/2013-08:46:46 INFO: File name of input file sent to server.
+11/27/2013-08:46:46 INFO: Created Child Process for Server. Process Nummber: 3
+11/27/2013-08:46:46 INFO: Connection successful with server.
+11/27/2013-08:46:46 INFO: File name of input file sent to server.
+11/27/2013-08:46:46 INFO: Created Child Process for Server. Process Nummber: 4
+11/27/2013-08:46:46 INFO: Connection successful with server.
+11/27/2013-08:46:46 INFO: Created Child Process for Server. Process Nummber: 5
+11/27/2013-08:46:46 INFO: File name of input file sent to server.
+11/27/2013-08:46:46 INFO: Connection successful with server.
+11/27/2013-08:46:46 INFO: File name of input file sent to server.
+11/27/2013-08:46:46 INFO: Created Child Process for Server. Process Nummber: 6
+11/27/2013-08:46:46 INFO: Connection successful with server.
+11/27/2013-08:46:46 INFO: Created Child Process for Server. Process Nummber: 7
+11/27/2013-08:46:46 INFO: File name of input file sent to server.
+11/27/2013-08:46:46 INFO: Connection successful with server.
+11/27/2013-08:46:46 INFO: File name of input file sent to server.
+11/27/2013-08:46:46 INFO: Created Child Process for Server. Process Nummber: 8
+11/27/2013-08:46:46 INFO: Created Child Process for Server. Process Nummber: 9
+11/27/2013-08:46:46 INFO: Connection successful with server.
+11/27/2013-08:46:46 INFO: Connection successful with server.
+11/27/2013-08:46:46 INFO: File name of input file sent to server.
+11/27/2013-08:46:46 INFO: File name of input file sent to server.
+11/27/2013-08:46:46 INFO: Created Child Process for Server. Process Nummber: 10
+11/27/2013-08:46:46 INFO: Created Child Process for Server. Process Nummber: 11
+11/27/2013-08:46:46 INFO: Connection successful with server.
+11/27/2013-08:46:46 INFO: Connection successful with server.
+11/27/2013-08:46:46 INFO: File name of input file sent to server.
+11/27/2013-08:46:46 INFO: File name of input file sent to server.
+11/27/2013-08:46:46 INFO: Created Child Process for Server. Process Nummber: 12
+11/27/2013-08:46:46 INFO: Created Child Process for Server. Process Nummber: 13
+11/27/2013-08:46:46 INFO: Connection successful with server.
+11/27/2013-08:46:46 INFO: Connection successful with server.
+11/27/2013-08:46:46 INFO: File name of input file sent to server.
+11/27/2013-08:46:46 INFO: File name of input file sent to server.
+11/27/2013-08:46:46 INFO: Created Child Process for Server. Process Nummber: 14
+11/27/2013-08:46:46 INFO: Connection successful with server.
+11/27/2013-08:46:46 INFO: Created Child Process for Server. Process Nummber: 15
+11/27/2013-08:46:46 INFO: File name of input file sent to server.
+11/27/2013-08:46:46 INFO: Connection successful with server.
+11/27/2013-08:46:46 INFO: File name of input file sent to server.
+11/27/2013-08:46:46 INFO: Created Child Process for Server. Process Nummber: 16
+11/27/2013-08:46:46 INFO: Created Child Process for Server. Process Nummber: 17
+11/27/2013-08:46:46 INFO: Connection successful with server.
+11/27/2013-08:46:46 INFO: File name of input file sent to server.
+11/27/2013-08:46:46 INFO: Connection successful with server.
+11/27/2013-08:46:46 INFO: File name of input file sent to server.
+11/27/2013-08:46:46 INFO: Created Child Process for Server. Process Nummber: 18
+11/27/2013-08:46:46 INFO: Created Child Process for Server. Process Nummber: 19
+11/27/2013-08:46:46 INFO: Connection successful with server.
+11/27/2013-08:46:46 INFO: Connection successful with server.
+11/27/2013-08:46:46 INFO: File name of input file sent to server.
+11/27/2013-08:46:46 INFO: File name of input file sent to server.
+11/27/2013-08:46:46 INFO: Created Child Process for Server. Process Nummber: 20
+11/27/2013-08:46:46 INFO: Created Child Process for Server. Process Nummber: 21
+11/27/2013-08:46:46 INFO: Connection successful with server.
+11/27/2013-08:46:46 INFO: Connection successful with server.
+11/27/2013-08:46:46 INFO: File name of input file sent to server.
+11/27/2013-08:46:46 INFO: File name of input file sent to server.
+11/27/2013-08:46:46 INFO: Created Child Process for Server. Process Nummber: 22
+11/27/2013-08:46:46 INFO: Connection successful with server.
+11/27/2013-08:46:46 INFO: Created Child Process for Server. Process Nummber: 23
+11/27/2013-08:46:46 INFO: File name of input file sent to server.
+11/27/2013-08:46:46 INFO: Connection successful with server.
+11/27/2013-08:46:46 INFO: File name of input file sent to server.
+11/27/2013-08:46:46 INFO: Created Child Process for Server. Process Nummber: 24
+11/27/2013-08:46:46 INFO: Created Child Process for Server. Process Nummber: 25
+11/27/2013-08:46:47 INFO: Connection successful with server.
+11/27/2013-08:46:47 INFO: File name of input file sent to server.
+11/27/2013-08:46:47 INFO: Connection successful with server.
+11/27/2013-08:46:47 INFO: File name of input file sent to server.
+11/27/2013-08:46:47 INFO: Created Child Process for Server. Process Nummber: 26
+11/27/2013-08:46:47 INFO: Connection successful with server.
+11/27/2013-08:46:47 INFO: File name of input file sent to server.
+11/27/2013-08:46:47 INFO: Created Child Process for Server. Process Nummber: 27
+11/27/2013-08:46:47 INFO: Connection successful with server.
+11/27/2013-08:46:47 INFO: File name of input file sent to server.
+11/27/2013-08:46:47 INFO: Created Child Process for Server. Process Nummber: 28
+11/27/2013-08:46:47 INFO: Connection successful with server.
+11/27/2013-08:46:47 INFO: File name of input file sent to server.
+11/27/2013-08:46:47 INFO: Created Child Process for Server. Process Nummber: 29
+11/27/2013-08:46:47 INFO: Connection successful with server.
+11/27/2013-08:46:47 INFO: File name of input file sent to server.
+11/27/2013-08:46:47 INFO: Created Child Process for Server. Process Nummber: 30
+11/27/2013-08:46:47 INFO: Connection successful with server.
+11/27/2013-08:46:47 INFO: Created Child Process for Server. Process Nummber: 31
+11/27/2013-08:46:47 INFO: File name of input file sent to server.
+11/27/2013-08:46:47 INFO: Connection successful with server.
+11/27/2013-08:46:47 INFO: File name of input file sent to server.
+11/27/2013-08:46:47 INFO: Created Child Process for Server. Process Nummber: 32
+11/27/2013-08:46:47 INFO: Created Child Process for Server. Process Nummber: 33
+11/27/2013-08:46:47 INFO: Connection successful with server.
+11/27/2013-08:46:47 INFO: File name of input file sent to server.
+11/27/2013-08:46:47 INFO: Connection successful with server.
+11/27/2013-08:46:47 INFO: File name of input file sent to server.
+11/27/2013-08:46:47 INFO: Created Child Process for Server. Process Nummber: 34
+11/27/2013-08:46:47 INFO: Connection successful with server.
+11/27/2013-08:46:47 INFO: File name of input file sent to server.
+11/27/2013-08:46:47 INFO: Created Child Process for Server. Process Nummber: 35
+11/27/2013-08:46:47 INFO: Connection successful with server.
+11/27/2013-08:46:47 INFO: Created Child Process for Server. Process Nummber: 36
+11/27/2013-08:46:47 INFO: File name of input file sent to server.
+11/27/2013-08:46:47 INFO: Created Child Process for Server. Process Nummber: 37
+11/27/2013-08:46:48 INFO: Connection successful with server.
+11/27/2013-08:46:48 INFO: File name of input file sent to server.
+11/27/2013-08:46:48 INFO: Created Child Process for Server. Process Nummber: 38
+11/27/2013-08:46:49 INFO: Connection successful with server.
+11/27/2013-08:46:49 INFO: File name of input file sent to server.
+11/27/2013-08:46:49 INFO: Created Child Process for Server. Process Nummber: 39
+11/27/2013-08:46:50 INFO: Connection successful with server.
+11/27/2013-08:46:50 INFO: File name of input file sent to server.
+11/27/2013-08:46:50 INFO: Created Child Process for Server. Process Nummber: 40
+11/27/2013-08:46:51 INFO: Connection successful with server.
+11/27/2013-08:46:51 INFO: File name of input file sent to server.
+11/27/2013-08:46:52 INFO: Created Child Process for Server. Process Nummber: 41
+11/27/2013-08:46:53 INFO: Connection successful with server.
+11/27/2013-08:46:53 INFO: File name of input file sent to server.
+11/27/2013-08:46:53 INFO: Created Child Process for Server. Process Nummber: 42
+11/27/2013-08:46:54 INFO: Connection successful with server.
+11/27/2013-08:46:54 INFO: File name of input file sent to server.
+11/27/2013-08:46:54 INFO: Created Child Process for Server. Process Nummber: 43
+11/27/2013-08:46:55 INFO: Connection successful with server.
+11/27/2013-08:46:55 INFO: File name of input file sent to server.
+11/27/2013-08:46:55 INFO: Created Child Process for Server. Process Nummber: 44
+11/27/2013-08:46:56 INFO: Virtual Memory Used by process: 1936 kB
+11/27/2013-08:46:56 INFO: CPU Used by the client: 0.697211
+11/27/2013-08:46:56 INFO: Resident Memory Used by process: 364 kB
+11/27/2013-08:46:56 INFO: Connection successful with server.
+11/27/2013-08:46:56 INFO: File name of input file sent to server.
+11/27/2013-08:46:56 INFO: Created Child Process for Server. Process Nummber: 45
+11/27/2013-08:46:57 INFO: Connection successful with server.
+11/27/2013-08:46:57 INFO: File name of input file sent to server.
+11/27/2013-08:46:57 INFO: Created Child Process for Server. Process Nummber: 46
+11/27/2013-08:46:58 INFO: Connection successful with server.
+11/27/2013-08:46:58 INFO: File name of input file sent to server.
+11/27/2013-08:46:58 INFO: Created Child Process for Server. Process Nummber: 47
+11/27/2013-08:46:59 INFO: Connection successful with server.
+11/27/2013-08:46:59 INFO: File name of input file sent to server.
+11/27/2013-08:46:59 INFO: Created Child Process for Server. Process Nummber: 48
+11/27/2013-08:47:00 INFO: Connection successful with server.
+11/27/2013-08:47:00 INFO: File name of input file sent to server.
+11/27/2013-08:47:00 INFO: Created Child Process for Server. Process Nummber: 49
+11/27/2013-08:47:01 INFO: Connection successful with server.
+11/27/2013-08:47:01 INFO: File name of input file sent to server.
+11/27/2013-08:47:01 INFO: Created Child Process for Server. Process Nummber: 50
+11/27/2013-08:47:01 INFO: Connection successful with server.
+11/27/2013-08:47:01 INFO: File name of input file sent to server.
+11/27/2013-08:47:01 INFO: Created Child Process for Server. Process Nummber: 51
+11/27/2013-08:47:03 INFO: Connection successful with server.
+11/27/2013-08:47:03 INFO: File name of input file sent to server.
+11/27/2013-08:47:03 INFO: Created Child Process for Server. Process Nummber: 52
+11/27/2013-08:47:03 INFO: Connection successful with server.
+11/27/2013-08:47:03 INFO: File name of input file sent to server.
+11/27/2013-08:47:03 INFO: Created Child Process for Server. Process Nummber: 53
+11/27/2013-08:47:06 INFO: CPU Used by the client: 0.1998
+11/27/2013-08:47:06 INFO: Virtual Memory Used by process: 1936 kB
+11/27/2013-08:47:06 INFO: Resident Memory Used by process: 372 kB
+11/27/2013-08:47:06 INFO: Connection successful with server.
+11/27/2013-08:47:06 INFO: File name of input file sent to server.
+11/27/2013-08:47:06 INFO: Created Child Process for Server. Process Nummber: 54
+11/27/2013-08:47:06 INFO: Connection successful with server.
+11/27/2013-08:47:06 INFO: File name of input file sent to server.
+11/27/2013-08:47:06 INFO: Created Child Process for Server. Process Nummber: 55
+11/27/2013-08:47:06 INFO: Connection successful with server.
+11/27/2013-08:47:06 INFO: File name of input file sent to server.
+11/27/2013-08:47:06 INFO: Created Child Process for Server. Process Nummber: 56
+11/27/2013-08:47:06 INFO: Connection successful with server.
+11/27/2013-08:47:06 INFO: File name of input file sent to server.
+11/27/2013-08:47:06 INFO: Created Child Process for Server. Process Nummber: 57
+11/27/2013-08:47:06 INFO: Connection successful with server.
+11/27/2013-08:47:06 INFO: File name of input file sent to server.
+11/27/2013-08:47:06 INFO: Created Child Process for Server. Process Nummber: 58
+11/27/2013-08:47:06 INFO: Connection successful with server.
+11/27/2013-08:47:06 INFO: File name of input file sent to server.
+11/27/2013-08:47:06 INFO: Created Child Process for Server. Process Nummber: 59
+11/27/2013-08:47:06 INFO: Connection successful with server.
+11/27/2013-08:47:06 INFO: File name of input file sent to server.
+11/27/2013-08:47:06 INFO: Created Child Process for Server. Process Nummber: 60
+11/27/2013-08:47:06 INFO: Connection successful with server.
+11/27/2013-08:47:06 INFO: File name of input file sent to server.
+11/27/2013-08:47:06 INFO: Created Child Process for Server. Process Nummber: 61
+11/27/2013-08:47:06 INFO: Connection successful with server.
+11/27/2013-08:47:06 INFO: File name of input file sent to server.
+11/27/2013-08:47:06 INFO: Created Child Process for Server. Process Nummber: 62
+11/27/2013-08:47:06 INFO: Connection successful with server.
+11/27/2013-08:47:06 INFO: File name of input file sent to server.
+11/27/2013-08:47:06 INFO: Created Child Process for Server. Process Nummber: 63
+11/27/2013-08:47:06 INFO: Connection successful with server.
+11/27/2013-08:47:06 INFO: File name of input file sent to server.
+11/27/2013-08:47:06 INFO: Created Child Process for Server. Process Nummber: 64
+11/27/2013-08:47:06 INFO: Connection successful with server.
+11/27/2013-08:47:06 INFO: File name of input file sent to server.
+11/27/2013-08:47:06 INFO: Created Child Process for Server. Process Nummber: 65
+11/27/2013-08:47:06 INFO: Connection successful with server.
+11/27/2013-08:47:06 INFO: File name of input file sent to server.
+11/27/2013-08:47:06 INFO: Created Child Process for Server. Process Nummber: 66
+11/27/2013-08:47:06 INFO: Connection successful with server.
+11/27/2013-08:47:06 INFO: File name of input file sent to server.
+11/27/2013-08:47:06 INFO: Created Child Process for Server. Process Nummber: 67
+11/27/2013-08:47:06 INFO: Connection successful with server.
+11/27/2013-08:47:06 INFO: File name of input file sent to server.
+11/27/2013-08:47:06 INFO: Created Child Process for Server. Process Nummber: 68
+11/27/2013-08:47:06 INFO: Connection successful with server.
+11/27/2013-08:47:06 INFO: File name of input file sent to server.
+11/27/2013-08:47:06 INFO: Created Child Process for Server. Process Nummber: 69
+11/27/2013-08:47:06 INFO: Connection successful with server.
+11/27/2013-08:47:06 INFO: File name of input file sent to server.
+11/27/2013-08:47:06 INFO: Created Child Process for Server. Process Nummber: 70
+11/27/2013-08:47:06 INFO: Connection successful with server.
+11/27/2013-08:47:06 INFO: File name of input file sent to server.
+11/27/2013-08:47:06 INFO: Created Child Process for Server. Process Nummber: 71
+11/27/2013-08:47:07 INFO: Connection successful with server.
+11/27/2013-08:47:07 INFO: File name of input file sent to server.
+11/27/2013-08:47:07 INFO: Created Child Process for Server. Process Nummber: 72
+11/27/2013-08:47:07 INFO: Connection successful with server.
+11/27/2013-08:47:07 INFO: File name of input file sent to server.
+11/27/2013-08:47:07 INFO: Created Child Process for Server. Process Nummber: 73
+11/27/2013-08:47:07 INFO: Connection successful with server.
+11/27/2013-08:47:07 INFO: File name of input file sent to server.
+11/27/2013-08:47:07 INFO: Created Child Process for Server. Process Nummber: 74
+11/27/2013-08:47:07 INFO: Connection successful with server.
+11/27/2013-08:47:07 INFO: File name of input file sent to server.
+11/27/2013-08:47:07 INFO: Created Child Process for Server. Process Nummber: 75
+11/27/2013-08:47:07 INFO: Connection successful with server.
+11/27/2013-08:47:07 INFO: File name of input file sent to server.
+11/27/2013-08:47:07 INFO: Created Child Process for Server. Process Nummber: 76
+11/27/2013-08:47:07 INFO: Connection successful with server.
+11/27/2013-08:47:07 INFO: File name of input file sent to server.
+11/27/2013-08:47:07 INFO: Created Child Process for Server. Process Nummber: 77
+11/27/2013-08:47:07 INFO: Connection successful with server.
+11/27/2013-08:47:07 INFO: File name of input file sent to server.
+11/27/2013-08:47:07 INFO: Created Child Process for Server. Process Nummber: 78
+11/27/2013-08:47:07 INFO: Connection successful with server.
+11/27/2013-08:47:07 INFO: File name of input file sent to server.
+11/27/2013-08:47:07 INFO: Created Child Process for Server. Process Nummber: 79
+11/27/2013-08:47:07 INFO: Connection successful with server.
+11/27/2013-08:47:07 INFO: File name of input file sent to server.
+11/27/2013-08:47:07 INFO: Created Child Process for Server. Process Nummber: 80
+11/27/2013-08:47:08 INFO: Connection successful with server.
+11/27/2013-08:47:08 INFO: File name of input file sent to server.
+11/27/2013-08:47:08 INFO: Created Child Process for Server. Process Nummber: 81
+11/27/2013-08:47:08 INFO: Connection successful with server.
+11/27/2013-08:47:08 INFO: File name of input file sent to server.
+11/27/2013-08:47:08 INFO: Created Child Process for Server. Process Nummber: 82
+11/27/2013-08:47:10 INFO: Connection successful with server.
+11/27/2013-08:47:10 INFO: File name of input file sent to server.
+11/27/2013-08:47:10 INFO: Created Child Process for Server. Process Nummber: 83
+11/27/2013-08:47:10 INFO: Connection successful with server.
+11/27/2013-08:47:10 INFO: File name of input file sent to server.
+11/27/2013-08:47:10 INFO: Created Child Process for Server. Process Nummber: 84
+11/27/2013-08:47:13 INFO: Connection successful with server.
+11/27/2013-08:47:13 INFO: File name of input file sent to server.
+11/27/2013-08:47:13 INFO: Created Child Process for Server. Process Nummber: 85
+11/27/2013-08:47:13 INFO: Connection successful with server.
+11/27/2013-08:47:13 INFO: File name of input file sent to server.
+11/27/2013-08:47:13 INFO: Created Child Process for Server. Process Nummber: 86
+11/27/2013-08:47:14 INFO: Connection successful with server.
+11/27/2013-08:47:14 INFO: File name of input file sent to server.
+11/27/2013-08:47:14 INFO: Created Child Process for Server. Process Nummber: 87
+11/27/2013-08:47:14 INFO: Connection successful with server.
+11/27/2013-08:47:14 INFO: File name of input file sent to server.
+11/27/2013-08:47:14 INFO: Created Child Process for Server. Process Nummber: 88
+11/27/2013-08:47:15 INFO: Connection successful with server.
+11/27/2013-08:47:15 INFO: File name of input file sent to server.
+11/27/2013-08:47:15 INFO: Created Child Process for Server. Process Nummber: 89
+11/27/2013-08:47:15 INFO: Connection successful with server.
+11/27/2013-08:47:15 INFO: File name of input file sent to server.
+11/27/2013-08:47:15 INFO: Created Child Process for Server. Process Nummber: 90
+11/27/2013-08:47:15 INFO: Connection successful with server.
+11/27/2013-08:47:15 INFO: File name of input file sent to server.
+11/27/2013-08:47:16 INFO: CPU Used by the client: 0.7
+11/27/2013-08:47:16 INFO: Virtual Memory Used by process: 1940 kB
+11/27/2013-08:47:16 INFO: Resident Memory Used by process: 372 kB
+11/27/2013-08:47:16 INFO: Connection successful with server.
+11/27/2013-08:47:16 INFO: File name of input file sent to server.
+11/27/2013-08:47:26 INFO: CPU Used by the client: 0
+11/27/2013-08:47:26 INFO: Virtual Memory Used by process: 1940 kB
+11/27/2013-08:47:26 INFO: Resident Memory Used by process: 372 kB
+11/27/2013-08:47:36 INFO: CPU Used by the client: 0.1
+11/27/2013-08:47:36 INFO: Virtual Memory Used by process: 1936 kB
+11/27/2013-08:47:36 INFO: Resident Memory Used by process: 372 kB
+11/27/2013-08:47:46 INFO: CPU Used by the client: 0
+11/27/2013-08:47:46 INFO: Virtual Memory Used by process: 1936 kB
+11/27/2013-08:47:46 INFO: Resident Memory Used by process: 372 kB
+11/27/2013-08:47:56 INFO: CPU Used by the client: 0.1
+11/27/2013-08:47:56 INFO: Virtual Memory Used by process: 1936 kB
+11/27/2013-08:47:56 INFO: Resident Memory Used by process: 372 kB
+11/27/2013-08:48:06 INFO: CPU Used by the client: 0.0999001
+11/27/2013-08:48:06 INFO: Virtual Memory Used by process: 1936 kB
+11/27/2013-08:48:06 INFO: Resident Memory Used by process: 372 kB
+11/27/2013-08:48:16 INFO: CPU Used by the client: 0.0998004
+11/27/2013-08:48:16 INFO: Virtual Memory Used by process: 1936 kB
+11/27/2013-08:48:16 INFO: Resident Memory Used by process: 372 kB
+11/27/2013-08:48:26 INFO: CPU Used by the client: 0.0999001
+11/27/2013-08:48:26 INFO: Virtual Memory Used by process: 1936 kB
+11/27/2013-08:48:26 INFO: Resident Memory Used by process: 372 kB
+11/27/2013-08:48:36 INFO: CPU Used by the client: 0
+11/27/2013-08:48:36 INFO: Virtual Memory Used by process: 1936 kB
+11/27/2013-08:48:36 INFO: Resident Memory Used by process: 372 kB
+11/27/2013-08:48:46 INFO: CPU Used by the client: 0.0999001
+11/27/2013-08:48:46 INFO: Virtual Memory Used by process: 1936 kB
+11/27/2013-08:48:46 INFO: Resident Memory Used by process: 372 kB
+11/27/2013-08:48:56 INFO: CPU Used by the client: 0.0999001
+11/27/2013-08:48:56 INFO: Virtual Memory Used by process: 1936 kB
+11/27/2013-08:48:56 INFO: Resident Memory Used by process: 372 kB
